@@ -1,0 +1,4036 @@
+{
+    "ingredients": [
+        {
+            "name": {
+                "en": "chicken breast",
+                "tr": "tavuk göğsü"
+            },
+            "per_100g": {
+                "calorie": 120,
+                "protein": 22.5,
+                "fat": 2.6,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 45
+            }
+        },
+        {
+            "name": {
+                "en": "cherry tomatoes",
+                "tr": "çeri domates"
+            },
+            "per_100g": {
+                "calorie": 18,
+                "protein": 0.9,
+                "fat": 0.2,
+                "carbohydrate": 3.9,
+                "sugar": 2.6,
+                "fiber": 1.2,
+                "sodium": 5
+            }
+        },
+        {
+            "name": {
+                "en": "cinnamon",
+                "tr": "tarçın"
+            },
+            "per_100g": {
+                "calorie": 247,
+                "protein": 4.0,
+                "fat": 1.2,
+                "carbohydrate": 80.6,
+                "sugar": 2.2,
+                "fiber": 53.1,
+                "sodium": 10
+            }
+        },
+        {
+            "name": {
+                "en": "white rice",
+                "tr": "beyaz pirinç"
+            },
+            "per_100g": {
+                "calorie": 130,
+                "protein": 2.7,
+                "fat": 0.3,
+                "carbohydrate": 28.0,
+                "sugar": 0.1,
+                "fiber": 0.4,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "olive oil",
+                "tr": "zeytinyağı"
+            },
+            "per_100g": {
+                "calorie": 884,
+                "protein": 0,
+                "fat": 100.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "egg",
+                "tr": "yumurta"
+            },
+            "per_100g": {
+                "calorie": 155,
+                "protein": 13.0,
+                "fat": 11.0,
+                "carbohydrate": 1.1,
+                "sugar": 1.1,
+                "fiber": 0,
+                "sodium": 124
+            }
+        },
+        {
+            "name": {
+                "en": "rolled oats",
+                "tr": "yulaf ezmesi"
+            },
+            "per_100g": {
+                "calorie": 389,
+                "protein": 16.9,
+                "fat": 6.9,
+                "carbohydrate": 66.3,
+                "sugar": 0.9,
+                "fiber": 10.6,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "banana",
+                "tr": "muz"
+            },
+            "per_100g": {
+                "calorie": 89,
+                "protein": 1.1,
+                "fat": 0.3,
+                "carbohydrate": 22.8,
+                "sugar": 12.2,
+                "fiber": 2.6,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "milk",
+                "tr": "süt"
+            },
+            "per_100g": {
+                "calorie": 42,
+                "protein": 3.4,
+                "fat": 1.0,
+                "carbohydrate": 5.0,
+                "sugar": 5.0,
+                "fiber": 0,
+                "sodium": 43
+            }
+        },
+        {
+            "name": {
+                "en": "honey",
+                "tr": "bal"
+            },
+            "per_100g": {
+                "calorie": 304,
+                "protein": 0.3,
+                "fat": 0,
+                "carbohydrate": 82.4,
+                "sugar": 82.1,
+                "fiber": 0,
+                "sodium": 4
+            }
+        },
+        {
+            "name": {
+                "en": "peanut butter",
+                "tr": "fıstık ezmesi"
+            },
+            "per_100g": {
+                "calorie": 588,
+                "protein": 25.0,
+                "fat": 50.0,
+                "carbohydrate": 20.0,
+                "sugar": 6.0,
+                "fiber": 6.0,
+                "sodium": 17
+            }
+        },
+        {
+            "name": {
+                "en": "whole wheat bread",
+                "tr": "tam buğday ekmeği"
+            },
+            "per_100g": {
+                "calorie": 247,
+                "protein": 13.0,
+                "fat": 3.4,
+                "carbohydrate": 41.0,
+                "sugar": 5.0,
+                "fiber": 7.0,
+                "sodium": 440
+            }
+        },
+        {
+            "name": {
+                "en": "avocado",
+                "tr": "avokado"
+            },
+            "per_100g": {
+                "calorie": 160,
+                "protein": 2.0,
+                "fat": 14.7,
+                "carbohydrate": 8.5,
+                "sugar": 0.7,
+                "fiber": 6.7,
+                "sodium": 7
+            }
+        },
+        {
+            "name": {
+                "en": "beef steak",
+                "tr": "dana biftek"
+            },
+            "per_100g": {
+                "calorie": 250,
+                "protein": 26.0,
+                "fat": 15.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 60
+            }
+        },
+        {
+            "name": {
+                "en": "salmon",
+                "tr": "somon balığı"
+            },
+            "per_100g": {
+                "calorie": 208,
+                "protein": 20.0,
+                "fat": 13.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 59
+            }
+        },
+        {
+            "name": {
+                "en": "broccoli",
+                "tr": "brokoli"
+            },
+            "per_100g": {
+                "calorie": 34,
+                "protein": 2.8,
+                "fat": 0.4,
+                "carbohydrate": 6.6,
+                "sugar": 1.5,
+                "fiber": 2.6,
+                "sodium": 33
+            }
+        },
+        {
+            "name": {
+                "en": "sweet potato",
+                "tr": "tatlı patates"
+            },
+            "per_100g": {
+                "calorie": 86,
+                "protein": 1.6,
+                "fat": 0.1,
+                "carbohydrate": 20.1,
+                "sugar": 4.2,
+                "fiber": 3.0,
+                "sodium": 55
+            }
+        },
+        {
+            "name": {
+                "en": "quinoa",
+                "tr": "kinoa"
+            },
+            "per_100g": {
+                "calorie": 120,
+                "protein": 4.4,
+                "fat": 1.9,
+                "carbohydrate": 21.3,
+                "sugar": 0.9,
+                "fiber": 2.8,
+                "sodium": 5
+            }
+        },
+        {
+            "name": {
+                "en": "greek yogurt",
+                "tr": "süzme yoğurt"
+            },
+            "per_100g": {
+                "calorie": 97,
+                "protein": 9.0,
+                "fat": 5.0,
+                "carbohydrate": 3.6,
+                "sugar": 3.6,
+                "fiber": 0,
+                "sodium": 36
+            }
+        },
+        {
+            "name": {
+                "en": "almonds",
+                "tr": "badem"
+            },
+            "per_100g": {
+                "calorie": 579,
+                "protein": 21.1,
+                "fat": 49.9,
+                "carbohydrate": 21.6,
+                "sugar": 4.4,
+                "fiber": 12.5,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "spinach",
+                "tr": "ıspanak"
+            },
+            "per_100g": {
+                "calorie": 23,
+                "protein": 2.9,
+                "fat": 0.4,
+                "carbohydrate": 3.6,
+                "sugar": 0.4,
+                "fiber": 2.2,
+                "sodium": 79
+            }
+        },
+        {
+            "name": {
+                "en": "tomato",
+                "tr": "domates"
+            },
+            "per_100g": {
+                "calorie": 18,
+                "protein": 0.9,
+                "fat": 0.2,
+                "carbohydrate": 3.9,
+                "sugar": 2.6,
+                "fiber": 1.2,
+                "sodium": 5
+            }
+        },
+        {
+            "name": {
+                "en": "cucumber",
+                "tr": "salatalık"
+            },
+            "per_100g": {
+                "calorie": 15,
+                "protein": 0.6,
+                "fat": 0.1,
+                "carbohydrate": 3.6,
+                "sugar": 1.7,
+                "fiber": 0.5,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "feta cheese",
+                "tr": "beyaz peynir"
+            },
+            "per_100g": {
+                "calorie": 264,
+                "protein": 14.2,
+                "fat": 21.3,
+                "carbohydrate": 4.1,
+                "sugar": 4.1,
+                "fiber": 0,
+                "sodium": 1116
+            }
+        },
+        {
+            "name": {
+                "en": "black olives",
+                "tr": "siyah zeytin"
+            },
+            "per_100g": {
+                "calorie": 115,
+                "protein": 0.8,
+                "fat": 10.7,
+                "carbohydrate": 6.3,
+                "sugar": 0,
+                "fiber": 3.2,
+                "sodium": 735
+            }
+        },
+        {
+            "name": {
+                "en": "pasta",
+                "tr": "makarna"
+            },
+            "per_100g": {
+                "calorie": 131,
+                "protein": 5.0,
+                "fat": 1.1,
+                "carbohydrate": 25.0,
+                "sugar": 0.6,
+                "fiber": 1.8,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "tomato paste",
+                "tr": "domates salçası"
+            },
+            "per_100g": {
+                "calorie": 82,
+                "protein": 4.3,
+                "fat": 0.5,
+                "carbohydrate": 18.9,
+                "sugar": 10.0,
+                "fiber": 4.0,
+                "sodium": 590
+            }
+        },
+        {
+            "name": {
+                "en": "garlic",
+                "tr": "sarımsak"
+            },
+            "per_100g": {
+                "calorie": 149,
+                "protein": 6.4,
+                "fat": 0.5,
+                "carbohydrate": 33.1,
+                "sugar": 1.0,
+                "fiber": 2.1,
+                "sodium": 17
+            }
+        },
+        {
+            "name": {
+                "en": "onion",
+                "tr": "kuru soğan"
+            },
+            "per_100g": {
+                "calorie": 40,
+                "protein": 1.1,
+                "fat": 0.1,
+                "carbohydrate": 9.3,
+                "sugar": 4.2,
+                "fiber": 1.7,
+                "sodium": 4
+            }
+        },
+        {
+            "name": {
+                "en": "bell pepper",
+                "tr": "kapya biber"
+            },
+            "per_100g": {
+                "calorie": 31,
+                "protein": 1.0,
+                "fat": 0.3,
+                "carbohydrate": 6.0,
+                "sugar": 4.2,
+                "fiber": 2.1,
+                "sodium": 4
+            }
+        },
+        {
+            "name": {
+                "en": "lentils",
+                "tr": "kırmızı mercimek"
+            },
+            "per_100g": {
+                "calorie": 116,
+                "protein": 9.0,
+                "fat": 0.4,
+                "carbohydrate": 20.1,
+                "sugar": 1.8,
+                "fiber": 7.9,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "ground beef",
+                "tr": "dana kıyma"
+            },
+            "per_100g": {
+                "calorie": 250,
+                "protein": 20.0,
+                "fat": 18.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 65
+            }
+        },
+        {
+            "name": {
+                "en": "butter",
+                "tr": "tereyağı"
+            },
+            "per_100g": {
+                "calorie": 717,
+                "protein": 0.9,
+                "fat": 81.1,
+                "carbohydrate": 0.1,
+                "sugar": 0.1,
+                "fiber": 0,
+                "sodium": 576
+            }
+        },
+        {
+            "name": {
+                "en": "flour",
+                "tr": "buğday unu"
+            },
+            "per_100g": {
+                "calorie": 364,
+                "protein": 10.3,
+                "fat": 1.0,
+                "carbohydrate": 76.3,
+                "sugar": 0.3,
+                "fiber": 2.7,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "sugar",
+                "tr": "toz şeker"
+            },
+            "per_100g": {
+                "calorie": 387,
+                "protein": 0,
+                "fat": 0,
+                "carbohydrate": 100.0,
+                "sugar": 100.0,
+                "fiber": 0,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "cocoa powder",
+                "tr": "kakao"
+            },
+            "per_100g": {
+                "calorie": 228,
+                "protein": 19.6,
+                "fat": 13.7,
+                "carbohydrate": 57.9,
+                "sugar": 1.8,
+                "fiber": 33.2,
+                "sodium": 21
+            }
+        },
+        {
+            "name": {
+                "en": "chia seeds",
+                "tr": "chia tohumu"
+            },
+            "per_100g": {
+                "calorie": 486,
+                "protein": 16.5,
+                "fat": 30.7,
+                "carbohydrate": 42.1,
+                "sugar": 0.7,
+                "fiber": 34.4,
+                "sodium": 16
+            }
+        },
+        {
+            "name": {
+                "en": "walnuts",
+                "tr": "ceviz"
+            },
+            "per_100g": {
+                "calorie": 654,
+                "protein": 15.2,
+                "fat": 65.2,
+                "carbohydrate": 13.7,
+                "sugar": 2.6,
+                "fiber": 6.7,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "apple",
+                "tr": "elma"
+            },
+            "per_100g": {
+                "calorie": 52,
+                "protein": 0.3,
+                "fat": 0.2,
+                "carbohydrate": 13.8,
+                "sugar": 10.4,
+                "fiber": 2.4,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "strawberry",
+                "tr": "çilek"
+            },
+            "per_100g": {
+                "calorie": 32,
+                "protein": 0.7,
+                "fat": 0.3,
+                "carbohydrate": 7.7,
+                "sugar": 4.9,
+                "fiber": 2.0,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "blueberry",
+                "tr": "yaban mersini"
+            },
+            "per_100g": {
+                "calorie": 57,
+                "protein": 0.7,
+                "fat": 0.3,
+                "carbohydrate": 14.5,
+                "sugar": 10.0,
+                "fiber": 2.4,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "turkey breast",
+                "tr": "hindi füme"
+            },
+            "per_100g": {
+                "calorie": 135,
+                "protein": 24.0,
+                "fat": 3.5,
+                "carbohydrate": 1.0,
+                "sugar": 0.5,
+                "fiber": 0,
+                "sodium": 550
+            }
+        },
+        {
+            "name": {
+                "en": "mushrooms",
+                "tr": "mantar"
+            },
+            "per_100g": {
+                "calorie": 22,
+                "protein": 3.1,
+                "fat": 0.3,
+                "carbohydrate": 3.3,
+                "sugar": 2.0,
+                "fiber": 1.0,
+                "sodium": 5
+            }
+        },
+        {
+            "name": {
+                "en": "zucchini",
+                "tr": "kabak"
+            },
+            "per_100g": {
+                "calorie": 17,
+                "protein": 1.2,
+                "fat": 0.3,
+                "carbohydrate": 3.1,
+                "sugar": 2.5,
+                "fiber": 1.0,
+                "sodium": 8
+            }
+        },
+        {
+            "name": {
+                "en": "eggplant",
+                "tr": "patlıcan"
+            },
+            "per_100g": {
+                "calorie": 25,
+                "protein": 1.0,
+                "fat": 0.2,
+                "carbohydrate": 6.0,
+                "sugar": 3.5,
+                "fiber": 3.0,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "chickpeas",
+                "tr": "nohut"
+            },
+            "per_100g": {
+                "calorie": 164,
+                "protein": 8.9,
+                "fat": 2.6,
+                "carbohydrate": 27.4,
+                "sugar": 4.8,
+                "fiber": 7.6,
+                "sodium": 7
+            }
+        },
+        {
+            "name": {
+                "en": "red kidney beans",
+                "tr": "barbunya"
+            },
+            "per_100g": {
+                "calorie": 127,
+                "protein": 8.7,
+                "fat": 0.5,
+                "carbohydrate": 22.8,
+                "sugar": 0.3,
+                "fiber": 6.4,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "tuna fish",
+                "tr": "ton balığı"
+            },
+            "per_100g": {
+                "calorie": 116,
+                "protein": 26.0,
+                "fat": 1.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 350
+            }
+        },
+        {
+            "name": {
+                "en": "cider vinegar",
+                "tr": "elma sirkesi"
+            },
+            "per_100g": {
+                "calorie": 21,
+                "protein": 0,
+                "fat": 0,
+                "carbohydrate": 0.9,
+                "sugar": 0.4,
+                "fiber": 0,
+                "sodium": 5
+            }
+        },
+        {
+            "name": {
+                "en": "lemon juice",
+                "tr": "limon suyu"
+            },
+            "per_100g": {
+                "calorie": 22,
+                "protein": 0.4,
+                "fat": 0.2,
+                "carbohydrate": 6.9,
+                "sugar": 2.5,
+                "fiber": 0.3,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "salt",
+                "tr": "tuz"
+            },
+            "per_100g": {
+                "calorie": 0,
+                "protein": 0,
+                "fat": 0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 38758
+            }
+        },
+        {
+            "name": {
+                "en": "black pepper",
+                "tr": "karabiber"
+            },
+            "per_100g": {
+                "calorie": 251,
+                "protein": 10.4,
+                "fat": 3.3,
+                "carbohydrate": 64.0,
+                "sugar": 0.6,
+                "fiber": 25.3,
+                "sodium": 20
+            }
+        },
+        {
+            "name": {
+                "en": "paprika",
+                "tr": "toz kırmızı biber"
+            },
+            "per_100g": {
+                "calorie": 282,
+                "protein": 14.1,
+                "fat": 12.9,
+                "carbohydrate": 53.9,
+                "sugar": 10.3,
+                "fiber": 34.9,
+                "sodium": 68
+            }
+        },
+        {
+            "name": {
+                "en": "cumin",
+                "tr": "kimyon"
+            },
+            "per_100g": {
+                "calorie": 375,
+                "protein": 17.8,
+                "fat": 22.3,
+                "carbohydrate": 44.2,
+                "sugar": 2.3,
+                "fiber": 10.5,
+                "sodium": 168
+            }
+        },
+        {
+            "name": {
+                "en": "mint",
+                "tr": "nane"
+            },
+            "per_100g": {
+                "calorie": 70,
+                "protein": 3.8,
+                "fat": 0.9,
+                "carbohydrate": 14.9,
+                "sugar": 0,
+                "fiber": 8.0,
+                "sodium": 31
+            }
+        },
+        {
+            "name": {
+                "en": "parsley",
+                "tr": "maydanoz"
+            },
+            "per_100g": {
+                "calorie": 36,
+                "protein": 3.0,
+                "fat": 0.8,
+                "carbohydrate": 6.3,
+                "sugar": 0.9,
+                "fiber": 3.3,
+                "sodium": 56
+            }
+        },
+        {
+            "name": {
+                "en": "dill",
+                "tr": "dereotu"
+            },
+            "per_100g": {
+                "calorie": 43,
+                "protein": 3.5,
+                "fat": 1.1,
+                "carbohydrate": 7.0,
+                "sugar": 0,
+                "fiber": 2.1,
+                "sodium": 61
+            }
+        },
+        {
+            "name": {
+                "en": "thyme",
+                "tr": "kekik"
+            },
+            "per_100g": {
+                "calorie": 101,
+                "protein": 5.6,
+                "fat": 1.7,
+                "carbohydrate": 24.4,
+                "sugar": 0,
+                "fiber": 14.0,
+                "sodium": 55
+            }
+        },
+        {
+            "name": {
+                "en": "curry powder",
+                "tr": "köri"
+            },
+            "per_100g": {
+                "calorie": 325,
+                "protein": 14.3,
+                "fat": 13.8,
+                "carbohydrate": 58.2,
+                "sugar": 2.8,
+                "fiber": 33.2,
+                "sodium": 52
+            }
+        },
+        {
+            "name": {
+                "en": "dark chocolate",
+                "tr": "bitter çikolata"
+            },
+            "per_100g": {
+                "calorie": 546,
+                "protein": 4.9,
+                "fat": 31.3,
+                "carbohydrate": 61.0,
+                "sugar": 24.0,
+                "fiber": 7.0,
+                "sodium": 24
+            }
+        },
+        {
+            "name": {
+                "en": "whey protein",
+                "tr": "whey protein tozu"
+            },
+            "per_100g": {
+                "calorie": 400,
+                "protein": 80.0,
+                "fat": 5.0,
+                "carbohydrate": 8.0,
+                "sugar": 4.0,
+                "fiber": 0,
+                "sodium": 150
+            }
+        },
+        {
+            "name": {
+                "en": "rice flour",
+                "tr": "pirinç unu"
+            },
+            "per_100g": {
+                "calorie": 366,
+                "protein": 5.9,
+                "fat": 1.4,
+                "carbohydrate": 80.0,
+                "sugar": 0.1,
+                "fiber": 2.4,
+                "sodium": 0
+            }
+        },
+        {
+            "name": {
+                "en": "baking powder",
+                "tr": "kabartma tozu"
+            },
+            "per_100g": {
+                "calorie": 53,
+                "protein": 0,
+                "fat": 0,
+                "carbohydrate": 27.7,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 10600
+            }
+        },
+        {
+            "name": {
+                "en": "vanilla extract",
+                "tr": "vanilya özütü"
+            },
+            "per_100g": {
+                "calorie": 288,
+                "protein": 0.1,
+                "fat": 0.1,
+                "carbohydrate": 12.7,
+                "sugar": 12.7,
+                "fiber": 0,
+                "sodium": 9
+            }
+        },
+        {
+            "name": {
+                "en": "coconut oil",
+                "tr": "hindistan cevizi yağı"
+            },
+            "per_100g": {
+                "calorie": 862,
+                "protein": 0,
+                "fat": 100.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 0
+            }
+        },
+        {
+            "name": {
+                "en": "maple syrup",
+                "tr": "akçaağaç şurubu"
+            },
+            "per_100g": {
+                "calorie": 260,
+                "protein": 0,
+                "fat": 0.1,
+                "carbohydrate": 67.0,
+                "sugar": 60.0,
+                "fiber": 0,
+                "sodium": 12
+            }
+        },
+        {
+            "name": {
+                "en": "cashews",
+                "tr": "kaju"
+            },
+            "per_100g": {
+                "calorie": 553,
+                "protein": 18.2,
+                "fat": 43.9,
+                "carbohydrate": 30.2,
+                "sugar": 5.9,
+                "fiber": 3.3,
+                "sodium": 12
+            }
+        },
+        {
+            "name": {
+                "en": "hazelnuts",
+                "tr": "fındık"
+            },
+            "per_100g": {
+                "calorie": 628,
+                "protein": 15.0,
+                "fat": 60.8,
+                "carbohydrate": 16.7,
+                "sugar": 4.3,
+                "fiber": 9.7,
+                "sodium": 0
+            }
+        },
+        {
+            "name": {
+                "en": "pistachio",
+                "tr": "antep fıstığı"
+            },
+            "per_100g": {
+                "calorie": 562,
+                "protein": 20.2,
+                "fat": 45.3,
+                "carbohydrate": 27.5,
+                "sugar": 7.7,
+                "fiber": 10.6,
+                "sodium": 1
+            }
+        },
+        {
+            "name": {
+                "en": "sunflower seeds",
+                "tr": "ay çekirdeği"
+            },
+            "per_100g": {
+                "calorie": 584,
+                "protein": 20.8,
+                "fat": 51.5,
+                "carbohydrate": 20.0,
+                "sugar": 2.6,
+                "fiber": 8.6,
+                "sodium": 9
+            }
+        },
+        {
+            "name": {
+                "en": "pumpkin seeds",
+                "tr": "kabak çekirdeği"
+            },
+            "per_100g": {
+                "calorie": 559,
+                "protein": 30.2,
+                "fat": 49.1,
+                "carbohydrate": 10.7,
+                "sugar": 1.4,
+                "fiber": 6.0,
+                "sodium": 7
+            }
+        },
+        {
+            "name": {
+                "en": "corn",
+                "tr": "mısır"
+            },
+            "per_100g": {
+                "calorie": 86,
+                "protein": 3.3,
+                "fat": 1.4,
+                "carbohydrate": 19.0,
+                "sugar": 3.2,
+                "fiber": 2.0,
+                "sodium": 15
+            }
+        },
+        {
+            "name": {
+                "en": "green peas",
+                "tr": "bezelye"
+            },
+            "per_100g": {
+                "calorie": 81,
+                "protein": 5.4,
+                "fat": 0.4,
+                "carbohydrate": 14.5,
+                "sugar": 5.7,
+                "fiber": 5.1,
+                "sodium": 5
+            }
+        },
+        {
+            "name": {
+                "en": "carrot",
+                "tr": "havuç"
+            },
+            "per_100g": {
+                "calorie": 41,
+                "protein": 0.9,
+                "fat": 0.2,
+                "carbohydrate": 9.6,
+                "sugar": 4.7,
+                "fiber": 2.8,
+                "sodium": 69
+            }
+        },
+        {
+            "name": {
+                "en": "cauliflower",
+                "tr": "karnabahar"
+            },
+            "per_100g": {
+                "calorie": 25,
+                "protein": 1.9,
+                "fat": 0.3,
+                "carbohydrate": 5.0,
+                "sugar": 1.9,
+                "fiber": 2.0,
+                "sodium": 15
+            }
+        },
+        {
+            "name": {
+                "en": "cabbage",
+                "tr": "lahana"
+            },
+            "per_100g": {
+                "calorie": 25,
+                "protein": 1.3,
+                "fat": 0.1,
+                "carbohydrate": 5.8,
+                "sugar": 3.2,
+                "fiber": 2.5,
+                "sodium": 18
+            }
+        },
+        {
+            "name": {
+                "en": "lettuce",
+                "tr": "marul"
+            },
+            "per_100g": {
+                "calorie": 15,
+                "protein": 1.4,
+                "fat": 0.2,
+                "carbohydrate": 2.9,
+                "sugar": 0.8,
+                "fiber": 1.3,
+                "sodium": 28
+            }
+        },
+        {
+            "name": {
+                "en": "radish",
+                "tr": "turp"
+            },
+            "per_100g": {
+                "calorie": 16,
+                "protein": 0.7,
+                "fat": 0.1,
+                "carbohydrate": 3.4,
+                "sugar": 1.9,
+                "fiber": 1.6,
+                "sodium": 39
+            }
+        },
+        {
+            "name": {
+                "en": "garlic powder",
+                "tr": "sarımsak tozu"
+            },
+            "per_100g": {
+                "calorie": 332,
+                "protein": 16.6,
+                "fat": 0.8,
+                "carbohydrate": 72.7,
+                "sugar": 2.4,
+                "fiber": 9.0,
+                "sodium": 60
+            }
+        },
+        {
+            "name": {
+                "en": "ginger",
+                "tr": "zencefil"
+            },
+            "per_100g": {
+                "calorie": 80,
+                "protein": 1.8,
+                "fat": 0.8,
+                "carbohydrate": 17.8,
+                "sugar": 1.7,
+                "fiber": 2.0,
+                "sodium": 13
+            }
+        },
+        {
+            "name": {
+                "en": "soy sauce",
+                "tr": "soya sosu"
+            },
+            "per_100g": {
+                "calorie": 53,
+                "protein": 8.1,
+                "fat": 0.6,
+                "carbohydrate": 4.9,
+                "sugar": 0.4,
+                "fiber": 0.8,
+                "sodium": 5493
+            }
+        },
+        {
+            "name": {
+                "en": "sesame oil",
+                "tr": "susam yağı"
+            },
+            "per_100g": {
+                "calorie": 884,
+                "protein": 0,
+                "fat": 100.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 0
+            }
+        },
+        {
+            "name": {
+                "en": "sesame seeds",
+                "tr": "susam"
+            },
+            "per_100g": {
+                "calorie": 573,
+                "protein": 17.7,
+                "fat": 49.7,
+                "carbohydrate": 23.5,
+                "sugar": 0.3,
+                "fiber": 11.8,
+                "sodium": 11
+            }
+        },
+        {
+            "name": {
+                "en": "tofu",
+                "tr": "tofu"
+            },
+            "per_100g": {
+                "calorie": 76,
+                "protein": 8.1,
+                "fat": 4.8,
+                "carbohydrate": 1.9,
+                "sugar": 0.3,
+                "fiber": 0.3,
+                "sodium": 7
+            }
+        },
+        {
+            "name": {
+                "en": "pomegranate molasses",
+                "tr": "nar ekşisi"
+            },
+            "per_100g": {
+                "calorie": 250,
+                "protein": 0.5,
+                "fat": 0.1,
+                "carbohydrate": 60.0,
+                "sugar": 45.0,
+                "fiber": 0,
+                "sodium": 20
+            }
+        },
+        {
+            "name": {
+                "en": "walnut oil",
+                "tr": "ceviz yağı"
+            },
+            "per_100g": {
+                "calorie": 884,
+                "protein": 0,
+                "fat": 100.0,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 0
+            }
+        },
+        {
+            "name": {
+                "en": "balsamic vinegar",
+                "tr": "balsamik sirke"
+            },
+            "per_100g": {
+                "calorie": 88,
+                "protein": 0.5,
+                "fat": 0,
+                "carbohydrate": 17.0,
+                "sugar": 15.0,
+                "fiber": 0,
+                "sodium": 23
+            }
+        },
+        {
+            "name": {
+                "en": "mustard",
+                "tr": "hardal"
+            },
+            "per_100g": {
+                "calorie": 66,
+                "protein": 4.4,
+                "fat": 4.0,
+                "carbohydrate": 5.8,
+                "sugar": 3.2,
+                "fiber": 3.3,
+                "sodium": 1100
+            }
+        },
+        {
+            "name": {
+                "en": "mayonnaise",
+                "tr": "mayonez"
+            },
+            "per_100g": {
+                "calorie": 680,
+                "protein": 1.0,
+                "fat": 75.0,
+                "carbohydrate": 0.6,
+                "sugar": 0.6,
+                "fiber": 0,
+                "sodium": 635
+            }
+        },
+        {
+            "name": {
+                "en": "ketchup",
+                "tr": "ketçap"
+            },
+            "per_100g": {
+                "calorie": 112,
+                "protein": 1.2,
+                "fat": 0.1,
+                "carbohydrate": 27.4,
+                "sugar": 21.8,
+                "fiber": 0.3,
+                "sodium": 907
+            }
+        },
+        {
+            "name": {
+                "en": "mozzarella",
+                "tr": "mozzarella peyniri"
+            },
+            "per_100g": {
+                "calorie": 280,
+                "protein": 28.0,
+                "fat": 17.0,
+                "carbohydrate": 3.1,
+                "sugar": 1.0,
+                "fiber": 0,
+                "sodium": 627
+            }
+        },
+        {
+            "name": {
+                "en": "cheddar cheese",
+                "tr": "kaşar peyniri"
+            },
+            "per_100g": {
+                "calorie": 403,
+                "protein": 24.9,
+                "fat": 33.1,
+                "carbohydrate": 1.3,
+                "sugar": 0.5,
+                "fiber": 0,
+                "sodium": 621
+            }
+        },
+        {
+            "name": {
+                "en": "cottage cheese",
+                "tr": "lor peyniri"
+            },
+            "per_100g": {
+                "calorie": 98,
+                "protein": 11.0,
+                "fat": 4.3,
+                "carbohydrate": 3.4,
+                "sugar": 3.4,
+                "fiber": 0,
+                "sodium": 364
+            }
+        },
+        {
+            "name": {
+                "en": "kefir",
+                "tr": "kefir"
+            },
+            "per_100g": {
+                "calorie": 55,
+                "protein": 3.6,
+                "fat": 3.0,
+                "carbohydrate": 4.8,
+                "sugar": 4.8,
+                "fiber": 0,
+                "sodium": 40
+            }
+        },
+        {
+            "name": {
+                "en": "sour cream",
+                "tr": "ekşi krema"
+            },
+            "per_100g": {
+                "calorie": 193,
+                "protein": 2.1,
+                "fat": 19.4,
+                "carbohydrate": 4.6,
+                "sugar": 3.6,
+                "fiber": 0,
+                "sodium": 80
+            }
+        },
+        {
+            "name": {
+                "en": "beef liver",
+                "tr": "dana ciğeri"
+            },
+            "per_100g": {
+                "calorie": 175,
+                "protein": 26.0,
+                "fat": 4.8,
+                "carbohydrate": 5.3,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 69
+            }
+        },
+        {
+            "name": {
+                "en": "lamb chops",
+                "tr": "kuzu pirzola"
+            },
+            "per_100g": {
+                "calorie": 294,
+                "protein": 23.5,
+                "fat": 21.5,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 72
+            }
+        },
+        {
+            "name": {
+                "en": "duck breast",
+                "tr": "ördek göğsü"
+            },
+            "per_100g": {
+                "calorie": 337,
+                "protein": 19.0,
+                "fat": 28.4,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 55
+            }
+        },
+        {
+            "name": {
+                "en": "shrimp",
+                "tr": "karides"
+            },
+            "per_100g": {
+                "calorie": 99,
+                "protein": 24.0,
+                "fat": 0.3,
+                "carbohydrate": 0.2,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 149
+            }
+        },
+        {
+            "name": {
+                "en": "squid",
+                "tr": "kalamar"
+            },
+            "per_100g": {
+                "calorie": 92,
+                "protein": 15.6,
+                "fat": 1.4,
+                "carbohydrate": 3.1,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 265
+            }
+        },
+        {
+            "name": {
+                "en": "sardines",
+                "tr": "sardalya"
+            },
+            "per_100g": {
+                "calorie": 208,
+                "protein": 24.6,
+                "fat": 11.5,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 505
+            }
+        },
+        {
+            "name": {
+                "en": "mackerel",
+                "tr": "uskumru"
+            },
+            "per_100g": {
+                "calorie": 205,
+                "protein": 18.6,
+                "fat": 13.9,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 90
+            }
+        },
+        {
+            "name": {
+                "en": "bulgur",
+                "tr": "bulgur"
+            },
+            "per_100g": {
+                "calorie": 342,
+                "protein": 12.3,
+                "fat": 1.3,
+                "carbohydrate": 75.8,
+                "sugar": 0.4,
+                "fiber": 18.3,
+                "sodium": 17
+            }
+        },
+        {
+            "name": {
+                "en": "couscous",
+                "tr": "kuskus"
+            },
+            "per_100g": {
+                "calorie": 112,
+                "protein": 3.8,
+                "fat": 0.2,
+                "carbohydrate": 23.2,
+                "sugar": 0.1,
+                "fiber": 1.4,
+                "sodium": 5
+            }
+        },
+        {
+            "name": {
+                "en": "barley",
+                "tr": "arpa"
+            },
+            "per_100g": {
+                "calorie": 354,
+                "protein": 12.5,
+                "fat": 2.3,
+                "carbohydrate": 73.5,
+                "sugar": 0.8,
+                "fiber": 17.3,
+                "sodium": 12
+            }
+        },
+        {
+            "name": {
+                "en": "rye flour",
+                "tr": "çavdar unu"
+            },
+            "per_100g": {
+                "calorie": 349,
+                "protein": 10.3,
+                "fat": 1.6,
+                "carbohydrate": 75.9,
+                "sugar": 4.1,
+                "fiber": 15.1,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "cornmeal",
+                "tr": "mısır unu"
+            },
+            "per_100g": {
+                "calorie": 370,
+                "protein": 8.1,
+                "fat": 3.6,
+                "carbohydrate": 76.9,
+                "sugar": 1.6,
+                "fiber": 7.3,
+                "sodium": 35
+            }
+        },
+        {
+            "name": {
+                "en": "dates",
+                "tr": "hurma"
+            },
+            "per_100g": {
+                "calorie": 277,
+                "protein": 1.8,
+                "fat": 0.2,
+                "carbohydrate": 75.0,
+                "sugar": 66.5,
+                "fiber": 8.0,
+                "sodium": 2
+            }
+        },
+        {
+            "name": {
+                "en": "figs",
+                "tr": "kuru incir"
+            },
+            "per_100g": {
+                "calorie": 249,
+                "protein": 3.3,
+                "fat": 0.9,
+                "carbohydrate": 63.9,
+                "sugar": 47.9,
+                "fiber": 9.8,
+                "sodium": 10
+            }
+        },
+        {
+            "name": {
+                "en": "raisins",
+                "tr": "kuru üzüm"
+            },
+            "per_100g": {
+                "calorie": 299,
+                "protein": 3.1,
+                "fat": 0.5,
+                "carbohydrate": 79.2,
+                "sugar": 59.2,
+                "fiber": 3.7,
+                "sodium": 11
+            }
+        }
+    ],
+    "recipes": [
+        {
+            "name": {
+                "en": "Grilled Chicken with Rice",
+                "tr": "Pirinçli Izgara Tavuk"
+            },
+            "instructions": {
+                "en": "1. Marinate the chicken breast with olive oil, salt, and black pepper for 15 minutes.\n2. Cook the white rice in boiling water with a pinch of salt until tender.\n3. Grill the marinated chicken breast on a hot skillet for 6-7 minutes on each side until fully cooked.\n4. Slice the grilled chicken and serve it warm alongside the cooked white rice.",
+                "tr": "1. Tavuk göğsünü zeytinyağı, tuz ve karabiber ile 15 dakika marine edin.\n2. Beyaz pirinci tuzlu kaynar suda yumuşayana kadar haşlayın.\n3. Marine edilmiş tavuk göğsünü sıcak bir tavada her iki yüzü de iyice pişene kadar 6-7 dakika ızgara yapın.\n4. Izgara tavuğu dilimleyin ve haşlanmış beyaz pirinç eşliğinde sıcak olarak servis edin."
+            },
+            "prep_time_minutes": 35,
+            "categories": ["lunch", "dinner"],
+            "ingredients": [
+                {
+                    "name": "chicken breast",
+                    "grams": 250
+                },
+                {
+                    "name": "white rice",
+                    "grams": 150
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Oatmeal Banana Breakfast Bowl",
+                "tr": "Muzlu Yulaf Ezmesi Kasesi"
+            },
+            "instructions": {
+                "en": "1. Pour milk and rolled oats into a small saucepan and bring to a simmer over medium heat.\n2. Cook for 5 minutes, stirring frequently until the oats absorb the milk and thicken.\n3. Transfer the cooked oatmeal into a bowl.\n4. Top with sliced banana, a drizzle of honey, and a tablespoon of peanut butter before serving.",
+                "tr": "1. Süt ve yulaf ezmesini küçük bir sos tenceresine alın ve orta ateşte kaynama noktasına getirin.\n2. Yulaf sütü çekip koyulaşana kadar sık sık karıştırarak 5 dakika pişirin.\n3. Pişen yulaf ezmesini bir kaseye aktarın.\n4. Üzerini dilimlenmiş muz, bir miktar bal ve bir yemek kaşığı fıstık ezmesi ile süsleyerek servis edin."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 50
+                },
+                {
+                    "name": "milk",
+                    "grams": 200
+                },
+                {
+                    "name": "banana",
+                    "grams": 100
+                },
+                {
+                    "name": "peanut butter",
+                    "grams": 20
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Avocado Toast with Egg",
+                "tr": "Avokadolu ve Yumurtalı Tost"
+            },
+            "instructions": {
+                "en": "1. Toast the slices of whole wheat bread until golden and crisp.\n2. Mash the ripe avocado in a bowl with lemon juice, salt, and black pepper until smooth.\n3. Fry or poach the egg in a pan to your preferred doneness.\n4. Spread the mashed avocado generously over the toast and place the cooked egg on top.",
+                "tr": "1. Tam buğday ekmek dilimlerini kızarana ve çıtırlaşana kadar tost makinesinde kızartın.\n2. Olgun avokadoyu bir kasede limon suyu, tuz ve karabiber ile pürüzsüz olana kadar ezin.\n3. Yumurtayı tavada dilediğiniz kıvamda haşlayın veya pişirin.\n4. Ezilmiş avokadoyu ekmeğin üzerine bolca sürün ve pişmiş yumurtayı en üste yerleştirin."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "whole wheat bread",
+                    "grams": 80
+                },
+                {
+                    "name": "avocado",
+                    "grams": 100
+                },
+                {
+                    "name": "egg",
+                    "grams": 60
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 5
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                },
+                {
+                    "name": "black pepper",
+                    "grams": 1
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Beef Steak with Sweet Potato",
+                "tr": "Tatlı Patatesli Dana Biftek"
+            },
+            "instructions": {
+                "en": "1. Preheat your oven to 200°C and cut the sweet potato into wedges, tossing with olive oil and thyme.\n2. Roast the sweet potato wedges in the oven for 30 minutes until tender.\n3. Season the beef steak with crushed garlic, salt, and pepper.\n4. Sear the steak in a hot skillet with olive oil for 4 minutes per side for medium-rare, then serve with roasted sweet potatoes.",
+                "tr": "1. Fırını 200°C'ye ısıtın, tatlı patatesleri elma dilim doğrayıp zeytinyağı ve kekik ile harmanlayın.\n2. Tatlı patates dilimlerini fırında yumuşayana kadar 30 dakika pişirin.\n3. Dana bifteği ezilmiş sarımsak, tuz ve karabiber ile leylandırın.\n4. Bifteği sıcak tavada zeytinyağı ile her iki yüzde 4'er dakika mühürleyin ve fırın patatesle servis yapın."
+            },
+            "prep_time_minutes": 40,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "beef steak",
+                    "grams": 300
+                },
+                {
+                    "name": "sweet potato",
+                    "grams": 200
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "thyme",
+                    "grams": 3
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Baked Salmon with Broccoli",
+                "tr": "Brokolili Fırın Somon"
+            },
+            "instructions": {
+                "en": "1. Preheat the oven to 190°C and line a baking sheet with parchment paper.\n2. Place the salmon fillet and broccoli florets on the baking sheet.\n3. Drizzle olive oil and fresh lemon juice over both the salmon and broccoli, seasoning with salt.\n4. Bake in the preheated oven for 20 minutes until the salmon flakes easily with a fork and broccoli is tender.",
+                "tr": "1. Fırını 190°C'ye ısıtın ve fırın tepsisine yağlı kağıt serin.\n2. Somon filetolarını ve brokoli çiçeklerini tepsiye yerleştirin.\n3. Somon ve brokolilerin üzerine zeytinyağı, taze limon suyu gezdirip tuz serpiştirin.\n4. Önceden ısıtılmış fırında somon çatal kolayca batana ve brokoli yumuşayana kadar 20 dakika pişirin."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "salmon",
+                    "grams": 250
+                },
+                {
+                    "name": "broccoli",
+                    "grams": 200
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 12
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 10
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Quinoa Salad with Feta",
+                "tr": "Peynirli Kinoa Salatası"
+            },
+            "instructions": {
+                "en": "1. Rinse the quinoa thoroughly and cook in boiling water for 15 minutes, then let it cool.\n2. Dice the cucumber and tomatoes into small cubes.\n3. In a large bowl, combine the cooled quinoa, diced cucumber, tomatoes, and crumbled feta cheese.\n4. Dress the salad with olive oil and fresh lemon juice, toss well, and serve chilled.",
+                "tr": "1. Kinoayı bol suyla yıkayıp kaynar suda 15 dakika haşlayın ve soğumaya bırakın.\n2. Salatalık ve domatesleri küçük küpler halinde doğrayın.\n3. Geniş bir kapta soğumuş kinoayı, doğranmış salatalık, domates ve ufalanmış beyaz peyniri karıştırın.\n4. Salataya zeytinyağı ve taze limon suyu ekleyip iyice harmanlayarak soğuk servis edin."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["lunch"],
+            "ingredients": [
+                {
+                    "name": "quinoa",
+                    "grams": 100
+                },
+                {
+                    "name": "cucumber",
+                    "grams": 100
+                },
+                {
+                    "name": "tomato",
+                    "grams": 100
+                },
+                {
+                    "name": "feta cheese",
+                    "grams": 60
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Greek Yogurt Berry Bowl",
+                "tr": "Meyveli Süzme Yoğurt Kasesi"
+            },
+            "instructions": {
+                "en": "1. Scoop the rich Greek yogurt into a clean serving bowl.\n2. Wash the fresh blueberries and strawberries, slicing the strawberries in half.\n3. Arrange the berries neatly over the yogurt.\n4. Drizzle honey on top and garnish with crushed walnuts for a crunchy texture.",
+                "tr": "1. Süzme yoğurdü temiz bir servis kasesine alın.\n2. Taze yaban mersini ve çilekleri yıkayın, çilekleri ortadan ikiye kesin.\n3. Meyveleri yoğurdun üzerine düzenli bir şekilde yerleştirin.\n4. Üzerine bal gezdirin ve kıtır bir doku için ezilmiş ceviz serpiştirerek servis yapın."
+            },
+            "prep_time_minutes": 5,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "greek yogurt",
+                    "grams": 200
+                },
+                {
+                    "name": "blueberry",
+                    "grams": 50
+                },
+                {
+                    "name": "strawberry",
+                    "grams": 50
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                },
+                {
+                    "name": "walnuts",
+                    "grams": 20
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Spinach Omelet",
+                "tr": "Ispanaklı Omlet"
+            },
+            "instructions": {
+                "en": "1. Whisk the eggs in a bowl with a pinch of salt until light and fluffy.\n2. Melt butter in a non-stick skillet over medium heat and sauté the fresh spinach until wilted.\n3. Pour the beaten eggs over the spinach, spreading evenly.\n4. Crumble feta cheese on top, fold the omelet in half, and cook for another minute before serving.",
+                "tr": "1. Yumurtaları bir kasede bir tutam tuz ile kabarana kadar çırpın.\n2. Yapışmaz bir tavada tereyağını eritin ve taze ıspanakları soteleyin.\n3. Çırpılmış yumurtaları ıspanakların üzerine döküp yayın.\n4. Üzerine beyaz peynir ufalayın, omleti ikiye katlayın ve servis etmeden önce bir dakika daha pişirin."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "grams": 120
+                },
+                {
+                    "name": "spinach",
+                    "grams": 60
+                },
+                {
+                    "name": "butter",
+                    "grams": 10
+                },
+                {
+                    "name": "feta cheese",
+                    "grams": 40
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Classic Lentil Soup",
+                "tr": "Klasik Mercimek Çorbası"
+            },
+            "instructions": {
+                "en": "1. Heat olive oil in a pot and sauté chopped onions and diced carrots until soft.\n2. Rinse red lentils thoroughly and add them to the pot along with 4 cups of water.\n3. Season with salt and cumin, bring to a boil, then reduce heat and simmer for 25 minutes until ingredients are tender.\n4. Blend the soup until smooth and creamy, then serve hot with lemon wedges.",
+                "tr": "1. Tencerede zeytinyağını ısıtın, doğranmış soğan ve havuçları yumuşayana kadar soteleyin.\n2. Kırmızı mercimeği yıkayıp tencereye ekleyin ve 4 bardak su ilave edin.\n3. Tuz ve kimyon ile tatlandırıp kaynamaya bırakın, ardından altını kısarak 25 dakika pişirin.\n4. Çorbayı pürüzsüz ve kıvamlı olana kadar blenderdan geçirin, limon dilimleriyle sıcak servis yapın."
+            },
+            "prep_time_minutes": 35,
+            "categories": ["lunch", "dinner"],
+            "ingredients": [
+                {
+                    "name": "lentils",
+                    "grams": 150
+                },
+                {
+                    "name": "onion",
+                    "grams": 100
+                },
+                {
+                    "name": "carrot",
+                    "grams": 100
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "cumin",
+                    "grams": 3
+                },
+                {
+                    "name": "salt",
+                    "grams": 4
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Beef Bolognese Pasta",
+                "tr": "Kıymalı Bolonez Soslu Makarna"
+            },
+            "instructions": {
+                "en": "1. Boil the pasta in salted water according to package instructions until al dente, then drain.\n2. In a skillet, heat olive oil and sauté minced onion and garlic until fragrant.\n3. Add ground beef and cook until browned, then stir in tomato paste and a splash of pasta water to form a rich sauce.\n4. Toss the cooked pasta directly into the meat sauce, combine well, and serve hot.",
+                "tr": "1. Makarnayı tuzlu kaynar suda paket talimatına göre haşlayıp süzün.\n2. Tavada zeytinyağını ısıtıp kıyılmış soğan ve sarımsağı soteleyin.\n3. Dana kıymayı ekleyip kavurun, ardından domates salçası ve bir kepçe makarna suyu ekleyerek sos kıvamına getirin.\n4. Haşlanmış makarnayı sosla buluşturup iyice harmanlayın ve sıcak servis yapın."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "pasta",
+                    "grams": 150
+                },
+                {
+                    "name": "ground beef",
+                    "grams": 150
+                },
+                {
+                    "name": "tomato paste",
+                    "grams": 40
+                },
+                {
+                    "name": "onion",
+                    "grams": 80
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Almond Energy Snack Bites",
+                "tr": "Bademli Enerji Atıştırmalığı"
+            },
+            "instructions": {
+                "en": "1. Grind the almonds coarsely in a food processor.\n2. In a bowl, combine rolled oats, ground almonds, peanut butter, honey, and cocoa powder.\n3. Mix the ingredients thoroughly with your hands until a sticky dough forms.\n4. Roll into small bite-sized balls and refrigerate for 30 minutes before eating.",
+                "tr": "1. Bademleri mutfak robotunda irice çekin.\n2. Bir kapta yulaf ezmesi, çekilmiş badem, fıstık ezmesi, bal ve kakao tozunu birleştirin.\n3. Malzemeleri ellerinizle iyice yoğurarak yapışkan bir hamur elde edin.\n4. Küçük toplar halinde yuvarlayın ve yemeden önce buzdolabında 30 dakika dinlendirin."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["snack"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 60
+                },
+                {
+                    "name": "peanut butter",
+                    "grams": 50
+                },
+                {
+                    "name": "honey",
+                    "grams": 30
+                },
+                {
+                    "name": "almonds",
+                    "grams": 30
+                },
+                {
+                    "name": "cocoa powder",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Turkey Wrap with Veggies",
+                "tr": "Sebzeli Hindi Füme Dürüm"
+            },
+            "instructions": {
+                "en": "1. Lay flatbread or whole wheat wrap on a clean surface.\n2. Spread a thin layer of mustard evenly across the surface.\n3. Layer turkey breast slices, lettuce, sliced tomatoes, and cucumber strips in the center.\n4. Roll tightly, cut in half diagonally, and serve fresh.",
+                "tr": "1. Dürüm ekmeğini temiz bir zemine serin.\n2. Üzerine ince bir tabaka hardal sürün.\n3. Hindi füme dilimleri, marul, dilimlenmiş domates ve salatalık şeritlerini orta kısma dizin.\n4. Sıkıca rulo şeklinde sarın, çapraz olarak ortadan ikiye kesin ve taze olarak servis edin."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "turkey breast",
+                    "grams": 80
+                },
+                {
+                    "name": "whole wheat bread",
+                    "grams": 60
+                },
+                {
+                    "name": "lettuce",
+                    "grams": 30
+                },
+                {
+                    "name": "tomato",
+                    "grams": 50
+                },
+                {
+                    "name": "cucumber",
+                    "grams": 50
+                },
+                {
+                    "name": "mustard",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Mushroom Sauté with Garlic",
+                "tr": "Sarımsaklı Mantar Sote"
+            },
+            "instructions": {
+                "en": "1. Clean the mushrooms with a damp cloth and slice them uniformly.\n2. Melt butter in a skillet over high heat and add the sliced mushrooms.\n3. Sauté until mushrooms release their moisture and turn golden brown, then add minced garlic.\n4. Season with salt, pepper, and freshly chopped parsley, toss for another minute, and serve.",
+                "tr": "1. Mantarları nemli bir bezle temizleyip eşit şekilde dilimleyin.\n2. Tavada tereyağını yüksek ateşte eritin ve dilimlenmiş mantarları ekleyin.\n3. Mantarlar suyunu salıp altın sarısı renk alana kadar soteleyin, ardından kıyılmış sarımsağı ekleyin.\n4. Tuz, karabiber ve taze kıyılmış maydanoz ile tatlandırıp bir dakika daha soteleyerek servis yapın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["snack", "dinner"],
+            "ingredients": [
+                {
+                    "name": "mushrooms",
+                    "grams": 250
+                },
+                {
+                    "name": "butter",
+                    "grams": 15
+                },
+                {
+                    "name": "garlic",
+                    "grams": 15
+                },
+                {
+                    "name": "parsley",
+                    "grams": 10
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                },
+                {
+                    "name": "black pepper",
+                    "grams": 1
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Zucchini Fritters",
+                "tr": "Kabak Mücveri"
+            },
+            "instructions": {
+                "en": "1. Grate the zucchini and squeeze out excess moisture using a clean cloth.\n2. In a bowl, whisk eggs and mix with flour, crumbled feta, chopped dill, and grated zucchini.\n3. Heat olive oil in a non-stick pan over medium heat.\n4. Drop spoonfuls of the mixture into the pan, flattening slightly, and fry for 3-4 minutes per side until golden brown.",
+                "tr": "1. Kabakları rendeleyin ve temiz bir bez yardımıyla fazla suyunu iyice sıkın.\n2. Bir kapta yumurtaları çırpın; un, ufalanmış peynir, kıyılmış dereotu ve rendelenmiş kabakla karıştırın.\n3. Yapışmaz tavada zeytinyağını orta ateşte ısıtın.\n4. Harçtan kaşık kaşık tavaya döküp hafifçe bastırın, her iki yüzünü de altın sarısı olana kadar 3-4 dakika kızartın."
+            },
+            "prep_time_minutes": 25,
+            "categories": ["snack", "lunch"],
+            "ingredients": [
+                {
+                    "name": "zucchini",
+                    "grams": 300
+                },
+                {
+                    "name": "egg",
+                    "grams": 60
+                },
+                {
+                    "name": "flour",
+                    "grams": 40
+                },
+                {
+                    "name": "feta cheese",
+                    "grams": 50
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "dill",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Tuna Salad Bowl",
+                "tr": "Ton Balıklı Fit Salata"
+            },
+            "instructions": {
+                "en": "1. Drain the canned tuna fish thoroughly.\n2. Chop lettuce, tomatoes, and cucumbers into bite-sized pieces and place in a large bowl.\n3. Add the flaked tuna and black olives on top of the greens.\n4. Whisk olive oil and lemon juice together, pour over the salad, toss gently, and serve.",
+                "tr": "1. Konserve ton balığının yağını veya suyunu iyice süzdürün.\n2. Marul, domates ve salatalıkları uygun boyutta doğrayıp geniş bir kaseye alın.\n3. Sebzelerin üzerine parçalanmış ton balığını ve siyah zeytinleri ekleyin.\n4. Zeytinyağı ve limon suyunu çırpıp salatanın üzerine gezdirin, nazikçe karıştırıp servis yapın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["lunch"],
+            "ingredients": [
+                {
+                    "name": "tuna fish",
+                    "grams": 150
+                },
+                {
+                    "name": "lettuce",
+                    "grams": 100
+                },
+                {
+                    "name": "tomato",
+                    "grams": 80
+                },
+                {
+                    "name": "cucumber",
+                    "grams": 80
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 10
+                },
+                {
+                    "name": "black olives",
+                    "grams": 30
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Chia Seed Pudding with Cocoa",
+                "tr": "Kakaolu Chia Puding"
+            },
+            "instructions": {
+                "en": "1. In a glass jar, combine chia seeds, milk, cocoa powder, and maple syrup.\n2. Stir vigorously with a spoon or whisk to ensure no cocoa lumps remain.\n3. Cover and refrigerate for at least 4 hours or overnight until the pudding thickens.\n4. Top with sliced banana before enjoying.",
+                "tr": "1. Cam kavanozda chia tohumu, süt, kakao tozu ve akçaağaç şurubunu birleştirin.\n2. Topak kalmaması için bir kaşık veya çırpıcı yardımıyla iyice karıştırın.\n3. Kapağını kapatıp buzdolabında en az 4 saat veya gece boyunca koyulaşana kadar bekletin.\n4. Tüketmeden önce üzerine dilimlenmiş muz ekleyerek servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["snack", "breakfast"],
+            "ingredients": [
+                {
+                    "name": "chia seeds",
+                    "grams": 40
+                },
+                {
+                    "name": "milk",
+                    "grams": 200
+                },
+                {
+                    "name": "cocoa powder",
+                    "grams": 15
+                },
+                {
+                    "name": "maple syrup",
+                    "grams": 20
+                },
+                {
+                    "name": "banana",
+                    "grams": 60
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Poached Eggs on Asparagus",
+                "tr": "Kuşkonmaz Üzerinde Poşe Yumurta"
+            },
+            "instructions": {
+                "en": "1. Bring a pot of water to a gentle simmer and create a vortex with a spoon.\n2. Crack eggs individually into the vortex and poach for 3 minutes.\n3. Sauté green vegetables or light greens in olive oil with salt and pepper.\n4. Place poached eggs on top of the greens, drizzle with lemon juice, and serve.",
+                "tr": "1. Bir tencere su kaynatın, hafifçe sirke ekleyip kaşıkla su içinde girdap oluşturun.\n2. Yumurtaları tek tek girdaba kırarak 3 dakika poşe edin.\n3. Hafif yeşillikleri veya sebzeleri zeytinyağı, tuz ve karabiberle soteleyin.\n4. Poşe yumurtaları yeşilliklerin üzerine yerleştirin, limon suyu gezdirip servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "grams": 120
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 5
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                },
+                {
+                    "name": "black pepper",
+                    "grams": 1
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Peanut Butter Banana Smoothie",
+                "tr": "Fıstık Ezmeli Muzlu Smoothie"
+            },
+            "instructions": {
+                "en": "1. Peel the banana and break it into chunks inside a blender.\n2. Add peanut butter, milk, and whey protein powder to the blender.\n3. Blend on high speed for 45 seconds until completely smooth and creamy.\n4. Pour into a tall glass and serve immediately.",
+                "tr": "1. Muzu soyup blenderın içine parçalara ayırarak atın.\n2. Blenderın içine fıstık ezmesi, süt ve whey protein tozunu ekleyin.\n3. Tamamen pürüzsüz ve kremsi bir kıvam alana kadar yüksek hızda 45 saniye çekin.\n4. Uzun bir bardağa döküp hemen servis yapın."
+            },
+            "prep_time_minutes": 5,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "banana",
+                    "grams": 120
+                },
+                {
+                    "name": "peanut butter",
+                    "grams": 30
+                },
+                {
+                    "name": "milk",
+                    "grams": 250
+                },
+                {
+                    "name": "whey protein",
+                    "grams": 30
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Stuffed Eggplants (Imam Bayildi)",
+                "tr": "Zeytinyağlı Karnıyarık"
+            },
+            "instructions": {
+                "en": "1. Peel eggplants in striped patterns, soak in salted water for 20 minutes, then pat dry and roast lightly.\n2. Sauté chopped onions, garlic, and diced tomatoes in olive oil to create a rich filling.\n3. Slit the center of each eggplant and stuff generously with the vegetable mixture.\n4. Bake in the oven at 180°C for 25 minutes until tender and flavorful.",
+                "tr": "1. Patlicanlari alacali soyup tuzlu suda 20 dakika bekletin, kurulayip hafifce yagda kizartin.\n2. Doğranmış soğan, sarımsak ve küp domatesleri zeytinyağında soteleyerek iç harcı hazırlayın.\n3. Patlıcanların ortasını yarıp hazırladığınız sebze harcı ile doldurun.\n4. Fırında 180°C'de yumuşayana ve lezzetler bütünleşene kadar 25 dakika pişirin."
+            },
+            "prep_time_minutes": 50,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "eggplant",
+                    "grams": 300
+                },
+                {
+                    "name": "onion",
+                    "grams": 100
+                },
+                {
+                    "name": "tomato",
+                    "grams": 100
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 30
+                },
+                {
+                    "name": "salt",
+                    "grams": 3
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Chickpea Salad Bowl",
+                "tr": "Nohutlu Fit Salata"
+            },
+            "instructions": {
+                "en": "1. Rinse boiled chickpeas and place them in a mixing bowl.\n2. Dice cucumber and tomatoes into small cubes, and finely chop fresh parsley.\n3. Combine chickpeas, vegetables, and herbs in the bowl.\n4. Whisk olive oil, lemon juice, and salt, pour over the salad, toss well, and serve.",
+                "tr": "1. Haşlanmış nohutları yıkayıp karıştırma kasesine alın.\n2. Salatalık ve domatesleri küçük küpler halinde doğrayın, taze maydanozu incecik kıyın.\n3. Nohutları, sebzeleri ve yeşillikleri kasede birleştirin.\n4. Zeytinyağı, limon suyu ve tuzu çırpıp salatanın üzerine dökün, iyice harmanlayıp servis yapın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "chickpeas",
+                    "grams": 150
+                },
+                {
+                    "name": "cucumber",
+                    "grams": 100
+                },
+                {
+                    "name": "tomato",
+                    "grams": 100
+                },
+                {
+                    "name": "parsley",
+                    "grams": 15
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Garlic Butter Shrimp",
+                "tr": "Sarımsaklı Tereyağlı Karides"
+            },
+            "instructions": {
+                "en": "1. Clean and devein the shrimp, patting them completely dry with paper towels.\n2. Melt butter in a large skillet over medium-high heat and add minced garlic.\n3. Add shrimp to the skillet and cook for 2-3 minutes per side until pink and opaque.\n4. Finish with fresh lemon juice and chopped parsley, then serve immediately.",
+                "tr": "1. Karidesleri temizleyin ve kağıt havlu ile tamamen kurulayın.\n2. Geniş bir tavada tereyağını orta-yüksek ateşte eritip kıyılmış sarımsağı ekleyin.\n3. Karidesleri tavaya atıp her iki yüzünü de pembeleşip pişene kadar 2-3 dakika soteleyin.\n4. Taze limon suyu ve kıyılmış maydanoz ile son dokunuşu yapıp hemen servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["dinner", "snack"],
+            "ingredients": [
+                {
+                    "name": "shrimp",
+                    "grams": 250
+                },
+                {
+                    "name": "butter",
+                    "grams": 25
+                },
+                {
+                    "name": "garlic",
+                    "grams": 20
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                },
+                {
+                    "name": "parsley",
+                    "grams": 10
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Cottage Cheese Pancakes",
+                "tr": "Lur Peynirli Protein Pankek"
+            },
+            "instructions": {
+                "en": "1. In a bowl, mash cottage cheese and mix with eggs and sugar until smooth.\n2. Whisk in flour and baking powder to form a thick batter.\n3. Melt a little butter in a non-stick pan over medium heat.\n4. Pour small rounds of batter and cook for 3 minutes per side until golden brown.",
+                "tr": "1. Bir kapta lor peynirini ezin, yumurta ve toz şeker ile pürüzsüz olana kadar karıştırın.\n2. Un ve kabartma tozu ekleyip yoğun kıvamlı bir hamur elde edene kadar çırpın.\n3. Yapışmaz tavada biraz tereyağı eritin.\n4. Hamurdan küçük yuvarlaklar dökerek her iki yüzünü de altın sarısı olana kadar 3'er dakika pişirin."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "cottage cheese",
+                    "grams": 150
+                },
+                {
+                    "name": "egg",
+                    "grams": 60
+                },
+                {
+                    "name": "flour",
+                    "grams": 50
+                },
+                {
+                    "name": "sugar",
+                    "grams": 15
+                },
+                {
+                    "name": "baking powder",
+                    "grams": 3
+                },
+                {
+                    "name": "butter",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Beef Cabbage Rolls",
+                "tr": "Etli Lahana Sarma"
+            },
+            "instructions": {
+                "en": "1. Blanch cabbage leaves in boiling water until pliable, then drain.\n2. Mix ground beef, raw white rice, finely chopped onion, salt, and pepper in a bowl.\n3. Place a spoonful of filling on each cabbage leaf and roll tightly into cylinders.\n4. Arrange in a pot, pour tomato paste mixed with water over them, and simmer on low heat for 45 minutes.",
+                "tr": "1. Lahana yapraklarını kaynar suda yumuşayana kadar haşlayıp süzün.\n2. Bir kapta dana kıyma, çiğ beyaz pirinç, ince kıyılmış soğan, tuz ve karabiberi karıştırın.\n3. Her lahana yaprağının ortasına harçtan koyup sıkıca rulo şeklinde sarın.\n4. Tencereye dizin, suyla açılmış domates salçasını üzerine döküp kısık ateşte 45 dakika pişirin."
+            },
+            "prep_time_minutes": 60,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "cabbage",
+                    "grams": 300
+                },
+                {
+                    "name": "ground beef",
+                    "grams": 200
+                },
+                {
+                    "name": "white rice",
+                    "grams": 80
+                },
+                {
+                    "name": "onion",
+                    "grams": 60
+                },
+                {
+                    "name": "tomato paste",
+                    "grams": 30
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Apple Cinnamon Oatmeal",
+                "tr": "Elmalı Tarçınlı Yulaf"
+            },
+            "instructions": {
+                "en": "1. Combine rolled oats and milk in a saucepan, cooking over medium heat for 5 minutes.\n2. Dice the apple into small cubes and sauté briefly with a pinch of cinnamon.\n3. Transfer cooked oatmeal to a bowl and top with the spiced apples.\n4. Drizzle honey and sprinkle chopped walnuts on top before serving.",
+                "tr": "1. Yulaf ezmesi ve sütü sos tenceresinde birleştirip orta ateşte 5 dakika pişirin.\n2. Elmayı küçük küpler halinde doğrayıp bir tutam tarçınla hafifçe soteleyin.\n3. Pişen yulafı kaseye alıp üzerine tarçınlı elma küplerini ekleyin.\n4. Bal gezdirip kıyılmış ceviz serpiştirerek servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 50
+                },
+                {
+                    "name": "milk",
+                    "grams": 200
+                },
+                {
+                    "name": "apple",
+                    "grams": 100
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                },
+                {
+                    "name": "walnuts",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Tomato Cucumber Salad",
+                "tr": "Çoban Salatası"
+            },
+            "instructions": {
+                "en": "1. Dice tomatoes, cucumbers, and onions into small, uniform cubes.\n2. Finely chop fresh parsley.\n3. Combine all chopped vegetables and herbs in a salad bowl.\n4. Season with salt, olive oil, and lemon juice, toss thoroughly, and serve fresh.",
+                "tr": "1. Domates, salatalık ve soğanları küçük, eşit küpler halinde doğrayın.\n2. Taze maydanozu incecik kıyın.\n3. Tüm doğranmış sebzeleri ve yeşillikleri bir salata kasesinde birleştirin.\n4. Tuz, zeytinyağı ve limon suyu ile tatlandırıp iyice harmanlayarak taze servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "tomato",
+                    "grams": 150
+                },
+                {
+                    "name": "cucumber",
+                    "grams": 150
+                },
+                {
+                    "name": "onion",
+                    "grams": 50
+                },
+                {
+                    "name": "parsley",
+                    "grams": 15
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Baked Chicken Wings",
+                "tr": "Fırında Soslu Tavuk Kanat"
+            },
+            "instructions": {
+                "en": "1. Preheat oven to 200°C and line a baking tray with parchment paper.\n2. Mix olive oil, paprika, garlic powder, and salt in a bowl to create a marinade.\n3. Coat the chicken pieces thoroughly with the spiced oil mixture.\n4. Bake in the preheated oven for 30 minutes until crispy and golden brown.",
+                "tr": "1. Fırını 200°C'ye ısıtıp tepsiye yağlı kağıt serin.\n2. Bir kasede zeytinyağı, toz kırmızı biber, sarımsak tozu ve tuzu karıştırarak sos hazırlayın.\n3. Tavuk parçalarını hazırlanan baharatlı sosla iyice harmanlayın.\n4. Önceden ısıtılmış fırında çıtır ve altın sarısı olana kadar 30 dakika pişirin."
+            },
+            "prep_time_minutes": 35,
+            "categories": ["dinner", "snack"],
+            "ingredients": [
+                {
+                    "name": "chicken breast",
+                    "grams": 300
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "paprika",
+                    "grams": 5
+                },
+                {
+                    "name": "garlic powder",
+                    "grams": 3
+                },
+                {
+                    "name": "salt",
+                    "grams": 3
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Stuffed Bell Peppers",
+                "tr": "Biber Dolması"
+            },
+            "instructions": {
+                "en": "1. Cut the tops off the bell peppers and remove seeds and membranes.\n2. In a bowl, mix ground beef, washed white rice, chopped onion, salt, and pepper.\n3. Stuff the bell peppers with the meat and rice mixture, leaving a little room at the top.\n4. Place in a pot, add tomato paste mixed with warm water, cover, and simmer for 40 minutes.",
+                "tr": "1. Biberlerin üst kısımlarını kesip çekirdek yataklarını çıkarın.\n2. Bir kapta dana kıyma, yıkanmış pirinç, doğranmış soğan, tuz ve karabiberi karıştırın.\n3. Biberleri etli harç ile çok sıkıştırmadan doldurun.\n4. Tencereye dizip ılık suyla açılmış salçayı ekleyin, kapağını kapatıp 40 dakika kısık ateşte pişirin."
+            },
+            "prep_time_minutes": 45,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "bell pepper",
+                    "grams": 250
+                },
+                {
+                    "name": "ground beef",
+                    "grams": 150
+                },
+                {
+                    "name": "white rice",
+                    "grams": 80
+                },
+                {
+                    "name": "onion",
+                    "grams": 60
+                },
+                {
+                    "name": "tomato paste",
+                    "grams": 25
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Lemony Bulgur Pilaf",
+                "tr": "Şehriyeli Bulgur Pilavı"
+            },
+            "instructions": {
+                "en": "1. Heat olive oil in a pan and sauté finely chopped onions until translucent.\n2. Stir in tomato paste and cook for another minute.\n3. Add bulgur and stir well, then pour in boiling water and salt.\n4. Cover, reduce heat, and simmer for 15 minutes until liquid is absorbed, then rest before serving.",
+                "tr": "1. Tavada zeytinyağını ısıtıp ince kıyılmış soğanları pembeleşene kadar soteleyin.\n2. Salçayı ekleyip bir dakika daha kavurun.\n3. Bulguru ekleyip karıştırın, ardından kaynar su ve tuz ilave edin.\n4. Kapağını kapatıp suyunu çekene kadar 15 dakika kısık ateşte pişirin, demlendirip servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["lunch", "dinner"],
+            "ingredients": [
+                {
+                    "name": "bulgur",
+                    "grams": 150
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "tomato paste",
+                    "grams": 20
+                },
+                {
+                    "name": "onion",
+                    "grams": 50
+                },
+                {
+                    "name": "salt",
+                    "grams": 3
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Dark Chocolate Oat Cookies",
+                "tr": "Yulaflı Bitter Çikolatalı Kurabiye"
+            },
+            "instructions": {
+                "en": "1. Mash ripe bananas in a bowl with peanut butter and honey until smooth.\n2. Stir in rolled oats and chopped dark chocolate chunks.\n3. Scoop portions of the dough onto a lined baking sheet and flatten slightly.\n4. Bake at 180°C for 15 minutes until set and golden.",
+                "tr": "1. Olgun muzları bir kasede fıstık ezmesi ve bal ile pürüzsüz olana kadar ezin.\n2. İçine yulaf ezmesi ve doğranmış bitter çikolata parçalarını ekleyip karıştırın.\n3. Yağlı kağıt serili tepsiye kaşıkla parçalar koyup hafifçe üzerlerini bastırın.\n4. 180°C'de 15 dakika sertleşip kızarana kadar fırınlayın."
+            },
+            "prep_time_minutes": 25,
+            "categories": ["snack"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 100
+                },
+                {
+                    "name": "banana",
+                    "grams": 100
+                },
+                {
+                    "name": "dark chocolate",
+                    "grams": 50
+                },
+                {
+                    "name": "peanut butter",
+                    "grams": 30
+                },
+                {
+                    "name": "honey",
+                    "grams": 20
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Zucchini Yogurt Dip",
+                "tr": "Kabak Tarator"
+            },
+            "instructions": {
+                "en": "1. Coarsely grate zucchini and sauté in olive oil until soft and moisture evaporates.\n2. In a bowl, mix Greek yogurt with minced garlic and salt.\n3. Combine cooked zucchini with the garlic yogurt mixture once cooled.\n4. Garnish with crushed walnuts and serve cold as a refreshing snack.",
+                "tr": "1. Kabakları iri kıyım rendeleyip zeytinyağında yumuşayana ve suyu buharlaşana kadar soteleyin.\n2. Bir kapta süzme yoğurdu ezilmiş sarımsak ve tuz ile çırpın.\n3. Soğuyan sote kabakları sarımsaklı yoğurtla karıştırın.\n4. Üzerine dövülmüş ceviz ekleyerek ferahlatıcı bir atıştırmalık olarak soğuk servis yapın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["snack"],
+            "ingredients": [
+                {
+                    "name": "zucchini",
+                    "grams": 200
+                },
+                {
+                    "name": "greek yogurt",
+                    "grams": 150
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                },
+                {
+                    "name": "walnuts",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Poached Egg Avocado Salad",
+                "tr": "Avokadolu Poşe Yumurta Salatası"
+            },
+            "instructions": {
+                "en": "1. Poach eggs gently in simmering water for 3 minutes.\n2. Chop lettuce and slice avocado and cherry tomatoes into a bowl.\n3. Place the warm poached eggs on top of the fresh salad greens.\n4. Drizzle olive oil and lemon juice over everything and season with salt and pepper.",
+                "tr": "1. Yumurtaları kaynar suda 3 dakika nazikçe poşe edin.\n2. Marulu doğrayıp avokado ve çeri domatesleri kaseye dilimleyin.\n3. Ilık poşe yumurtaları taze salata yeşilliklerinin üzerine yerleştirin.\n4. Üzerine zeytinyağı ve limon suyu gezdirip tuz ve karabiberle tatlandırın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["lunch", "breakfast"],
+            "ingredients": [
+                {
+                    "name": "avocado",
+                    "grams": 100
+                },
+                {
+                    "name": "egg",
+                    "grams": 120
+                },
+                {
+                    "name": "lettuce",
+                    "grams": 80
+                },
+                {
+                    "name": "cherry tomatoes",
+                    "grams": 80
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Sardine Lemon Toast",
+                "tr": "Sardalyalı Limonlu Tost"
+            },
+            "instructions": {
+                "en": "1. Toast whole wheat bread slices until crispy.\n2. Mash canned sardines with lemon juice, olive oil, and chopped parsley.\n3. Spread the sardine mixture thickly over the warm toast.\n4. Garnish with fresh herbs and serve immediately.",
+                "tr": "1. Tam buğday ekmek dilimlerini çıtırlaşana kadar tost makinesinde kızartın.\n2. Konserve sardalyaları limon suyu, zeytinyağı ve kıyılmış maydanoz ile ezin.\n3. Sardalya karışımını sıcak kızarmış ekmeğin üzerine bolca sürün.\n4. Taze otlarla süsleyip hemen servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast", "lunch"],
+            "ingredients": [
+                {
+                    "name": "whole wheat bread",
+                    "grams": 60
+                },
+                {
+                    "name": "sardines",
+                    "grams": 80
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 10
+                },
+                {
+                    "name": "parsley",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Spiced Chickpea Snack",
+                "tr": "Baharatlı Çıtır Nohut"
+            },
+            "instructions": {
+                "en": "1. Rinse and dry boiled chickpeas thoroughly with a clean towel.\n2. Toss chickpeas with olive oil, paprika, cumin, garlic powder, and salt.\n3. Spread evenly on a baking sheet lined with parchment paper.\n4. Roast at 200°C for 25 minutes until crunchy and crispy.",
+                "tr": "1. Haşlanmış nohutları yıkayıp temiz bir havluyla tamamen kurulayın.\n2. Nohutları zeytinyağı, toz kırmızı biber, kimyon, sarımsak tozu ve tuzla harmanlayın.\n3. Yağlı kağıt serili fırın tepsisine tek kat halinde yayın.\n4. 200°C'de çıtır ve kıtır olana kadar 25 dakika fırınlayın."
+            },
+            "prep_time_minutes": 25,
+            "categories": ["snack"],
+            "ingredients": [
+                {
+                    "name": "chickpeas",
+                    "grams": 200
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "paprika",
+                    "grams": 5
+                },
+                {
+                    "name": "cumin",
+                    "grams": 3
+                },
+                {
+                    "name": "garlic powder",
+                    "grams": 3
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Mashed Sweet Potato Bowl",
+                "tr": "Püre Tatlı Patates Kasesi"
+            },
+            "instructions": {
+                "en": "1. Peel and cube sweet potatoes, then boil in water until fork-tender.\n2. Drain well and mash with butter, warm milk, and a pinch of cinnamon until smooth.\n3. Transfer into a serving bowl.\n4. Top with crushed walnuts for added crunch and flavor.",
+                "tr": "1. Tatlı patatesleri soyup küp doğrayın ve çatalla ezilebilecek kıvama gelene kadar haşlayın.\n2. Suyunu süzüp tereyağı, ılık süt ve bir tutam tarçınla pürüzsüz olana kadar ezin.\n3. Servis kasesine aktarın.\n4. Ekstra kıtırlık ve lezzet için üzerine dövülmüş ceviz serpiştirin."
+            },
+            "prep_time_minutes": 25,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "sweet potato",
+                    "grams": 300
+                },
+                {
+                    "name": "butter",
+                    "grams": 15
+                },
+                {
+                    "name": "milk",
+                    "grams": 50
+                },
+                {
+                    "name": "cinnamon",
+                    "grams": 2
+                },
+                {
+                    "name": "walnuts",
+                    "grams": 20
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Green Protein Smoothie Bowl",
+                "tr": "Yeşil Protein Smoothie Kasesi"
+            },
+            "instructions": {
+                "en": "1. Add fresh spinach, banana, Greek yogurt, and whey protein to a blender.\n2. Blend on high until completely smooth and vibrant green.\n3. Pour into a bowl.\n4. Sprinkle chia seeds on top and enjoy with a spoon.",
+                "tr": "1. Blenderın içine taze ıspanak, muz, süzme yoğurt ve whey protein ekleyin.\n2. Tamamen pürüzsüz ve canlı yeşil bir renk alana kadar yüksek hızda çekin.\n3. Kaseye dökün.\n4. Üzerine chia tohumu serpiştirerek kaşıkla tüketin."
+            },
+            "prep_time_minutes": 5,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "spinach",
+                    "grams": 50
+                },
+                {
+                    "name": "banana",
+                    "grams": 100
+                },
+                {
+                    "name": "greek yogurt",
+                    "grams": 150
+                },
+                {
+                    "name": "whey protein",
+                    "grams": 30
+                },
+                {
+                    "name": "chia seeds",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Baked Trout with Herbs",
+                "tr": "Otlu Fırın Alabalık"
+            },
+            "instructions": {
+                "en": "1. Clean fish fillets and place on a baking tray.\n2. Mix olive oil, lemon juice, minced garlic, and chopped dill in a bowl.\n3. Brush the herb mixture generously over the fish.\n4. Bake at 190°C for 20 minutes until fully cooked and flaky.",
+                "tr": "1. Balık filetolarını temizleyip fırın tepsisine yerleştirin.\n2. Bir kasede zeytinyağı, limon suyu, kıyılmış sarımsak ve dereotunu karıştırın.\n3. Otlu sosu balığın üzerine fırça yardımıyla bolca sürün.\n4. 190°C'de tamamen pişip çatal kolayca ayrılana kadar 20 dakika fırınlayın."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "salmon",
+                    "grams": 250
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "dill",
+                    "grams": 10
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Classic Menemen",
+                "tr": "Klasik Menemen"
+            },
+            "instructions": {
+                "en": "1. Chop bell peppers and tomatoes into small cubes.\n2. Heat olive oil in a pan and sauté bell peppers until soft, then add tomatoes and cook until pulpy.\n3. Crack eggs directly into the tomato mixture.\n4. Stir gently to desired egg doneness and serve hot with bread.",
+                "tr": "1. Biber ve domatesleri küçük küpler halinde doğrayın.\n2. Tavada zeytinyağını ısıtıp biberleri soteleyin, ardından domatesleri ekleyip yumuşayana kadar pişirin.\n3. Yumurtaları doğrudan domatesli harcın içine kırın.\n4. Dilediğiniz kıvama gelene kadar nazikçe karıştırıp ekmek eşliğinde sıcak servis yapın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "grams": 120
+                },
+                {
+                    "name": "tomato",
+                    "grams": 150
+                },
+                {
+                    "name": "bell pepper",
+                    "grams": 80
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Baked Omelet Muffins",
+                "tr": "Fırında Muffin Omlet"
+            },
+            "instructions": {
+                "en": "1. Preheat oven to 180°C and grease a muffin tin.\n2. Whisk eggs and milk in a bowl with salt.\n3. Chop spinach and crumble feta cheese, dividing them evenly among muffin cups.\n4. Pour the egg mixture over the fillings and bake for 15 minutes until set.",
+                "tr": "1. Fırını 180°C'ye ısıtıp muffin tepsisini yağlayın.\n2. Bir kapta yumurta ve sütü tuz ile çırpın.\n3. Ispanağı kıyın ve peyniri ufalayarak muffin gözlerine eşit şekilde paylaştırın.\n4. Yumurta karışımını üzerlerine döküp donana kadar 15 dakika fırınlayın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "grams": 180
+                },
+                {
+                    "name": "spinach",
+                    "grams": 40
+                },
+                {
+                    "name": "feta cheese",
+                    "grams": 40
+                },
+                {
+                    "name": "milk",
+                    "grams": 30
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Lentil Salad with Herbs",
+                "tr": "Yeşillikli Mercimek Salatası"
+            },
+            "instructions": {
+                "en": "1. Boil red or green lentils until tender, then drain and cool.\n2. Finely chop parsley, dill, and onion.\n3. Combine cooled lentils with the chopped herbs and onion in a bowl.\n4. Dress with olive oil, lemon juice, and salt, toss well, and serve.",
+                "tr": "1. Mercimekleri yumuşayana kadar haşlayıp süzün ve soğumaya bırakın.\n2. Maydanoz, dereotu ve soğanı ince ince kıyın.\n3. Soğumuş mercimekleri kıyılmış otlar ve soğanla birleştirin.\n4. Zeytinyağı, limon suyu ve tuzla soslayıp iyice harmanlayıp servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["lunch"],
+            "ingredients": [
+                {
+                    "name": "lentils",
+                    "grams": 150
+                },
+                {
+                    "name": "parsley",
+                    "grams": 20
+                },
+                {
+                    "name": "dill",
+                    "grams": 15
+                },
+                {
+                    "name": "onion",
+                    "grams": 50
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Pan-Seared Beef Liver",
+                "tr": "Dana Ciğer Sote"
+            },
+            "instructions": {
+                "en": "1. Clean beef liver and cut into bite-sized cubes, removing membranes.\n2. Toss liver cubes lightly in flour mixed with paprika.\n3. Melt butter in a skillet over high heat and sear the liver quickly for 3-4 minutes.\n4. Add sliced onions and salt, sauté until onions soften, and serve hot.",
+                "tr": "1. Dana ciğerini temizleyip zar kısımlarını ayıklayın ve kuşbaşı doğrayın.\n2. Ciğer küplerini toz kırmızı biberli un ile hafifçe unlayın.\n3. Tavada tereyağını yüksek ateşte eritip ciğerleri hızlıca 3-4 dakika mühürleyin.\n4. Dilimlenmiş soğan ve tuz ekleyip soğanlar yumuşayana kadar soteleyip sıcak servis yapın."
+            },
+            "prep_time_minutes": 25,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "beef liver",
+                    "grams": 250
+                },
+                {
+                    "name": "flour",
+                    "grams": 30
+                },
+                {
+                    "name": "butter",
+                    "grams": 20
+                },
+                {
+                    "name": "onion",
+                    "grams": 80
+                },
+                {
+                    "name": "salt",
+                    "grams": 3
+                },
+                {
+                    "name": "paprika",
+                    "grams": 3
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Zucchini Yogurt Salad",
+                "tr": "Yoğurtlu Kabak Salatası"
+            },
+            "instructions": {
+                "en": "1. Grate zucchini and sauté in olive oil until moisture evaporates and tender.\n2. Let cool completely.\n3. Mix Greek yogurt with minced garlic and salt in a bowl.\n4. Combine sautéed zucchini with the garlic yogurt and serve chilled.",
+                "tr": "1. Kabakları rendeleyip zeytinyağında suyu buharlaşana ve yumuşayana kadar soteleyin.\n2. Tamamen soğumasını bekleyin.\n3. Bir kapta süzme yoğurdu sarımsak ve tuz ile karıştırın.\n4. Sote kabakları sarımsaklı yoğurtla birleştirip soğuk olarak servis yapın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "zucchini",
+                    "grams": 250
+                },
+                {
+                    "name": "greek yogurt",
+                    "grams": 150
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Almond Banana Oat Pancakes",
+                "tr": "Bademli Muzlu Yulaf Pankek"
+            },
+            "instructions": {
+                "en": "1. Blend rolled oats into a fine flour consistency in a blender.\n2. Add banana, egg, and milk, blending until smooth.\n3. Pour batter into small rounds on a hot greased skillet.\n4. Cook for 3 minutes per side until golden, and top with chopped almonds.",
+                "tr": "1. Yulaf ezmesini blenderda ince un kıvamına gelene kadar çekin.\n2. İçine muz, yumurta ve süt ekleyip pürüzsüz olana kadar çekmeye devam edin.\n3. Yağlanmış sıcak tavada küçük yuvarlaklar halinde hamuru dökün.\n4. Her iki yüzünü de altın sarısı olana kadar 3'er dakika pişirip doğranmış bademle servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 60
+                },
+                {
+                    "name": "banana",
+                    "grams": 100
+                },
+                {
+                    "name": "egg",
+                    "grams": 60
+                },
+                {
+                    "name": "milk",
+                    "grams": 50
+                },
+                {
+                    "name": "almonds",
+                    "grams": 20
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Tomato Basil Pasta",
+                "tr": "Fesleğenli Domatesli Makarna"
+            },
+            "instructions": {
+                "en": "1. Boil pasta in salted water until al dente, then drain.\n2. Sauté minced garlic in olive oil, add diced tomatoes, and simmer into a thick sauce.\n3. Toss cooked pasta into the warm tomato sauce.\n4. Mix thoroughly and serve immediately with fresh herbs if desired.",
+                "tr": "1. Makarnayı tuzlu suda al dente haşlayıp süzün.\n2. Zeytinyağında sarımsak soteleyin, küp domatesleri ekleyip koyu bir sos kıvamına gelene kadar pişirin.\n3. Haşlanmış makarnayı sıcak domates sosunun içine atın.\n4. İyice karıştırıp dilerseniz taze otlar eşliğinde hemen servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["lunch", "dinner"],
+            "ingredients": [
+                {
+                    "name": "pasta",
+                    "grams": 150
+                },
+                {
+                    "name": "tomato",
+                    "grams": 200
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Honey Mustard Chicken",
+                "tr": "Ballı Hardallı Tavuk"
+            },
+            "instructions": {
+                "en": "1. Cut chicken breast into bite-sized strips.\n2. In a bowl, mix mustard, honey, olive oil, and salt to form a glaze.\n3. Cook chicken strips in a skillet until white, then pour the honey mustard glaze over them.\n4. Simmer for 5 minutes until glaze thickens and coats the chicken.",
+                "tr": "1. Tavuk göğsünü kuşbaşı şeritler halinde doğrayın.\n2. Bir kasede hardal, bal, zeytinyağı ve tuzu karıştırarak sos hazırlayın.\n3. Tavuk şeritlerini tavada rengi dönene kadar pişirin, ardından hazırlanan sosu üzerine dökün.\n4. Sos koyulaşıp tavukları kaplayana kadar 5 dakika kısık ateşte pişirin."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "chicken breast",
+                    "grams": 250
+                },
+                {
+                    "name": "mustard",
+                    "grams": 30
+                },
+                {
+                    "name": "honey",
+                    "grams": 25
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Berry Oatmeal Smoothie",
+                "tr": "Meyveli Yulaf Smoothie"
+            },
+            "instructions": {
+                "en": "1. Add rolled oats, strawberries, blueberries, milk, and honey to a blender.\n2. Blend on high speed for 60 seconds until completely smooth.\n3. Pour into a glass and serve cold.",
+                "tr": "1. Blenderın içine yulaf ezmesi, çilek, yaban mersini, süt ve bal ekleyin.\n2. Tamamen pürüzsüz olana kadar yüksek hızda 60 saniye çekin.\n3. Bardağa döküp soğuk olarak servis yapın."
+            },
+            "prep_time_minutes": 5,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 40
+                },
+                {
+                    "name": "strawberry",
+                    "grams": 80
+                },
+                {
+                    "name": "blueberry",
+                    "grams": 50
+                },
+                {
+                    "name": "milk",
+                    "grams": 250
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Baked Cauliflower Bites",
+                "tr": "Fırında Karnabahar Atıştırmalığı"
+            },
+            "instructions": {
+                "en": "1. Cut cauliflower into bite-sized florets and wash well.\n2. Toss florets with olive oil, paprika, garlic powder, and salt.\n3. Spread evenly on a baking sheet.\n4. Roast at 200°C for 25 minutes until tender and crispy on edges.",
+                "tr": "1. Karnabaharı küçük çiçeklere ayırıp iyice yıkayın.\n2. Karnabahar çiçeklerini zeytinyağı, toz kırmızı biber, sarımsak tozu ve tuzla harmanlayın.\n3. Fırın tepsisine tek kat halinde yayın.\n4. 200°C'de yumuşayana ve kenarları çıtırlaşana kadar 25 dakika fırınlayın."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["snack", "dinner"],
+            "ingredients": [
+                {
+                    "name": "cauliflower",
+                    "grams": 300
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "paprika",
+                    "grams": 5
+                },
+                {
+                    "name": "garlic powder",
+                    "grams": 3
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Cucumber Yogurt Salad",
+                "tr": "Cacık"
+            },
+            "instructions": {
+                "en": "1. Grate or finely dice the cucumber.\n2. In a bowl, whisk Greek yogurt with minced garlic, salt, and a splash of cold water.\n3. Stir in the chopped or grated cucumber and fresh mint.\n4. Drizzle olive oil on top and serve cold.",
+                "tr": "1. Salatalığı rendeleyin veya incecik küpler halinde doğrayın.\n2. Bir kapta süzme yoğurdu sarımsak, tuz ve biraz soğuk su ile çırpın.\n3. İçine doğranmış salatalığı ve taze naneyi ekleyin.\n4. Üzerine zeytinyağı gezdirip soğuk olarak servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "cucumber",
+                    "grams": 200
+                },
+                {
+                    "name": "greek yogurt",
+                    "grams": 200
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "mint",
+                    "grams": 5
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Mushroom Omelet",
+                "tr": "Mantarlı Omlet"
+            },
+            "instructions": {
+                "en": "1. Slice mushrooms and sauté in butter until golden brown.\n2. Whisk eggs in a bowl with salt and pepper.\n3. Pour whisked eggs over the sautéed mushrooms in the pan.\n4. Cook until set, fold in half, and serve hot.",
+                "tr": "1. Mantarları dilimleyip tereyağında altın sarısı olana kadar soteleyin.\n2. Yumurtaları bir kasede tuz ve karabiber ile çırpın.\n3. Çırpılmış yumurtaları tavada sote mantarların üzerine dökün.\n4. Pişip katılaşana kadar bekleyin, ikiye katlayıp sıcak servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "grams": 120
+                },
+                {
+                    "name": "mushrooms",
+                    "grams": 100
+                },
+                {
+                    "name": "butter",
+                    "grams": 10
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                },
+                {
+                    "name": "black pepper",
+                    "grams": 1
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Boiled Egg Avocado Salad",
+                "tr": "Haşlanmış Yumurtalı Avokado Salatası"
+            },
+            "instructions": {
+                "en": "1. Boil eggs for 9 minutes, then peel and chop into quarters.\n2. Dice avocado and toss gently with lemon juice to prevent browning.\n3. Combine eggs and avocado in a bowl.\n4. Dress with olive oil, salt, and black pepper, then serve.",
+                "tr": "1. Yumurtaları 9 dakika haşlayıp kabuklarını soyun ve dörde bölün.\n2. Avokadoyu küp doğrayın ve kararmaması için limon suyuyla nazikçe harmanlayın.\n3. Yumurta ve avokadoyu kasede birleştirin.\n4. Zeytinyağı, tuz ve karabiberle soslayıp servis yapın."
+            },
+            "prep_time_minutes": 15,
+            "categories": ["lunch", "breakfast"],
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "grams": 120
+                },
+                {
+                    "name": "avocado",
+                    "grams": 100
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                },
+                {
+                    "name": "black pepper",
+                    "grams": 1
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Honey Walnut Oatmeal",
+                "tr": "Ballı Cevizli Yulaf"
+            },
+            "instructions": {
+                "en": "1. Cook rolled oats in milk in a small pot over medium heat for 5 minutes.\n2. Transfer warm oatmeal to a bowl.\n3. Drizzle honey generously over the top.\n4. Garnish with chopped walnuts for extra crunch and serve.",
+                "tr": "1. Yulaf ezmesini süt ile birlikte küçük bir tencerede orta ateşte 5 dakika pişirin.\n2. Ilık yulafı kaseye aktarın.\n3. Üzerine bolca bal gezdirin.\n4. Ekstra kıtırlık için kıyılmış ceviz ekleyerek servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 50
+                },
+                {
+                    "name": "milk",
+                    "grams": 200
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                },
+                {
+                    "name": "walnuts",
+                    "grams": 25
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Lemon Garlic Chicken",
+                "tr": "Limonlu Sarımsaklı Tavuk"
+            },
+            "instructions": {
+                "en": "1. Cut chicken breast into fillets and season with salt.\n2. Heat olive oil in a skillet and brown chicken on both sides.\n3. Mix lemon juice and minced garlic, pouring over the chicken.\n4. Simmer for 10 minutes until chicken is cooked through and sauce reduces.",
+                "tr": "1. Tavuk göğsünü fileto dilimleyip tuzla tatlandırın.\n2. Tavada zeytinyağını ısıtıp tavukları her iki yüzde kızartın.\n3. Limon suyu ve ezilmiş sarımsağı karıştırıp tavukların üzerine dökün.\n4. Tavuk tamamen pişip sos kıvam alana kadar 10 dakika kısık ateşte pişirin."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "chicken breast",
+                    "grams": 250
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 30
+                },
+                {
+                    "name": "garlic",
+                    "grams": 15
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Quinoa Avocado Salad",
+                "tr": "Avokadolu Kinoa Salatası"
+            },
+            "instructions": {
+                "en": "1. Cook quinoa in boiling water for 15 minutes, then cool.\n2. Dice avocado and tomatoes into small cubes.\n3. Combine cooked quinoa, avocado, and tomatoes in a bowl.\n4. Dress with olive oil, lemon juice, and salt, toss gently, and serve.",
+                "tr": "1. Kinoayı kaynar suda 15 dakika haşlayıp soğumaya bırakın.\n2. Avokado ve domatesleri küçük küpler halinde doğrayın.\n3. Haşlanmış kinoa, avokado ve domatesleri bir kapta birleştirin.\n4. Zeytinyağı, limon suyu ve tuz ile soslayıp nazikçe karıştırıp servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["lunch"],
+            "ingredients": [
+                {
+                    "name": "quinoa",
+                    "grams": 100
+                },
+                {
+                    "name": "avocado",
+                    "grams": 100
+                },
+                {
+                    "name": "tomato",
+                    "grams": 100
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Chia Banana Pudding",
+                "tr": "Muzlu Chia Puding"
+            },
+            "instructions": {
+                "en": "1. Combine chia seeds, milk, and honey in a jar, stirring well.\n2. Let sit in the refrigerator for 4 hours until thickened.\n3. Slice banana and place on top of the pudding.\n4. Serve cold as a healthy snack.",
+                "tr": "1. Chia tohumu, süt ve balı bir kavanozda iyice karıştırın.\n2. Buzdolabında koyulaşana kadar 4 saat bekletin.\n3. Muzu dilimleyip pudingin üzerine yerleştirin.\n4. Sağlıklı bir atıştırmalık olarak soğuk servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["snack", "breakfast"],
+            "ingredients": [
+                {
+                    "name": "chia seeds",
+                    "grams": 40
+                },
+                {
+                    "name": "milk",
+                    "grams": 200
+                },
+                {
+                    "name": "banana",
+                    "grams": 100
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Spiced Ground Beef Bowl",
+                "tr": "Baharatlı Kıymalı Kase"
+            },
+            "instructions": {
+                "en": "1. Heat olive oil in a skillet and sauté chopped onions until translucent.\n2. Add ground beef and cook until browned thoroughly.\n3. Season with paprika, cumin, and salt, stirring well.\n4. Serve warm with fresh herbs or grains.",
+                "tr": "1. Tavada zeytinyağını ısıtıp doğranmış soğanları soteleyin.\n2. Dana kıymayı ekleyip rengi kahverengi olana kadar iyice kavurun.\n3. Toz kırmızı biber, kimyon ve tuz ekleyip karıştırın.\n4. Taze otlar veya tahıllarla birlikte sıcak olarak servis yapın."
+            },
+            "prep_time_minutes": 25,
+            "categories": ["lunch", "dinner"],
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "grams": 250
+                },
+                {
+                    "name": "onion",
+                    "grams": 80
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "paprika",
+                    "grams": 5
+                },
+                {
+                    "name": "cumin",
+                    "grams": 3
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Garlic Yogurt Spinach",
+                "tr": "Yoğurtlu Ispanak"
+            },
+            "instructions": {
+                "en": "1. Wash spinach thoroughly and sauté in olive oil until wilted.\n2. Let cooked spinach cool and squeeze out excess water.\n3. Mix Greek yogurt with minced garlic and salt.\n4. Combine spinach with garlic yogurt and serve cold.",
+                "tr": "1. Ispanakları iyice yıkayıp zeytinyağında soteleyin.\n2. Pişen ıspanakları soğutup fazla suyunu hafifçe sıkın.\n3. Süzme yoğurdu sarımsak ve tuz ile karıştırın.\n4. Ispanakları sarımsaklı yoğurtla birleştirip soğuk servis yapın."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "spinach",
+                    "grams": 300
+                },
+                {
+                    "name": "greek yogurt",
+                    "grams": 150
+                },
+                {
+                    "name": "garlic",
+                    "grams": 10
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Oat Banana Pancakes",
+                "tr": "Yulaflı Muzlu Pankek"
+            },
+            "instructions": {
+                "en": "1. Blend oats into flour, then blend with banana, egg, and milk until smooth.\n2. Melt butter in a non-stick skillet over medium heat.\n3. Pour small pancake rounds and cook for 3 minutes per side until golden.",
+                "tr": "1. Yulafı un haline getirin, muz, yumurta ve sütle pürüzsüz olana kadar blenderdan geçirin.\n2. Yapışmaz tavada tereyağını orta ateşte eritin.\n3. Küçük pankek yuvarlakları döküp her iki yüzünü de altın sarısı olana kadar 3'er dakika pişirin."
+            },
+            "prep_time_minutes": 20,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 60
+                },
+                {
+                    "name": "banana",
+                    "grams": 100
+                },
+                {
+                    "name": "egg",
+                    "grams": 60
+                },
+                {
+                    "name": "milk",
+                    "grams": 40
+                },
+                {
+                    "name": "butter",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Tomato Soup with Garlic",
+                "tr": "Sarımsaklı Domates Çorbası"
+            },
+            "instructions": {
+                "en": "1. Melt butter in a pot, add flour, and stir for 2 minutes.\n2. Add grated tomatoes and tomato paste, cooking for 5 minutes.\n3. Pour in water and milk slowly, stirring continuously to avoid lumps.\n4. Simmer for 15 minutes, season with salt, and serve hot.",
+                "tr": "1. Tencerede tereyağını eritin, unu ekleyip 2 dakika kavurun.\n2. Rendelenmiş domatesleri ve salçayı ekleyip 5 dakika soteleyin.\n3. Yavaşça su ve sütü ekleyip topaklanmaması için sürekli karıştırın.\n4. 15 dakika kaynatıp tuz ile tatlandırın ve sıcak servis yapın."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["lunch", "dinner"],
+            "ingredients": [
+                {
+                    "name": "tomato",
+                    "grams": 300
+                },
+                {
+                    "name": "tomato paste",
+                    "grams": 30
+                },
+                {
+                    "name": "flour",
+                    "grams": 20
+                },
+                {
+                    "name": "butter",
+                    "grams": 20
+                },
+                {
+                    "name": "milk",
+                    "grams": 100
+                },
+                {
+                    "name": "salt",
+                    "grams": 3
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Avocado Egg Toast",
+                "tr": "Avokadolu Haşlanmış Yumurta Tost"
+            },
+            "instructions": {
+                "en": "1. Toast whole wheat bread slices.\n2. Mash avocado with lemon juice and salt, then spread on toast.\n3. Slice a boiled egg and place on top of the avocado mash.\n4. Season with black pepper and serve.",
+                "tr": "1. Tam buğday ekmek dilimlerini kızartın.\n2. Avokadoyu limon suyu ve tuzla ezip ekmeğin üzerine sürün.\n3. Haşlanmış yumurtayı dilimleyip avokado ezmesinin üzerine yerleştirin.\n4. Karabiber serpiştirip servis yapın."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "whole wheat bread",
+                    "grams": 60
+                },
+                {
+                    "name": "avocado",
+                    "grams": 80
+                },
+                {
+                    "name": "egg",
+                    "grams": 60
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 5
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Baked Chicken Breast with Rice",
+                "tr": "Fırın Tavuk Göğsü ve Pilav"
+            },
+            "instructions": {
+                "en": "1. Season chicken breast with olive oil, paprika, and salt.\n2. Cook white rice in boiling water until tender.\n3. Bake chicken breast in the oven at 190°C for 25 minutes until juicy and cooked through.\n4. Serve sliced chicken over hot cooked rice.",
+                "tr": "1. Tavuk göğsünü zeytinyağı, toz kırmızı biber ve tuzla tatlandırın.\n2. Beyaz pirinci kaynar suda yumuşayana kadar haşlayın.\n3. Tavuk göğsünü 190°C'de sulu kalacak şekilde 25 dakika fırınlayın.\n4. Dilimlenmiş tavuğu sıcak pilavın üzerinde servis yapın."
+            },
+            "prep_time_minutes": 40,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "chicken breast",
+                    "grams": 250
+                },
+                {
+                    "name": "white rice",
+                    "grams": 150
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "paprika",
+                    "grams": 3
+                },
+                {
+                    "name": "salt",
+                    "grams": 3
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Greek Yogurt Honey Snack",
+                "tr": "Ballı Süzme Yoğurt Atıştırmalığı"
+            },
+            "instructions": {
+                "en": "1. Scoop Greek yogurt into a bowl.\n2. Drizzle honey evenly over the yogurt.\n3. Top with chopped walnuts and serve immediately.",
+                "tr": "1. Süzme yoğurdu bir kaseye alın.\n2. Üzerine eşit şekilde bal gezdirin.\n3. Kıyılmış ceviz ekleyip hemen servis yapın."
+            },
+            "prep_time_minutes": 5,
+            "categories": ["snack"],
+            "ingredients": [
+                {
+                    "name": "greek yogurt",
+                    "grams": 200
+                },
+                {
+                    "name": "honey",
+                    "grams": 20
+                },
+                {
+                    "name": "walnuts",
+                    "grams": 20
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Mushroom Chicken Sauté",
+                "tr": "Mantarlı Tavuk Sote"
+            },
+            "instructions": {
+                "en": "1. Cut chicken breast into cubes and slice mushrooms.\n2. Sauté chopped onions and chicken in olive oil until white.\n3. Add mushrooms and cook until they release and reabsorb moisture.\n4. Season with salt and serve hot.",
+                "tr": "1. Tavuk göğsünü küp doğrayın ve mantarları dilimleyin.\n2. Zeytinyağında soğan ve tavukları renkleri dönene kadar soteleyin.\n3. Mantarları ekleyip suyunu salıp çekene kadar pişirin.\n4. Tuz ile tatlandırıp sıcak servis yapın."
+            },
+            "prep_time_minutes": 30,
+            "categories": ["dinner"],
+            "ingredients": [
+                {
+                    "name": "chicken breast",
+                    "grams": 250
+                },
+                {
+                    "name": "mushrooms",
+                    "grams": 150
+                },
+                {
+                    "name": "onion",
+                    "grams": 60
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 20
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Spinach Cheese Omelet",
+                "tr": "Peynirli Ispanaklı Omlet"
+            },
+            "instructions": {
+                "en": "1. Sauté fresh spinach in butter until wilted.\n2. Pour beaten eggs over the spinach.\n3. Crumble feta cheese on top, fold, and cook until set.",
+                "tr": "1. Taze ıspanağı tereyağında soteleyip yumuşatın.\n2. Üzerine çırpılmış yumurtaları dökün.\n3. Beyaz peynir ufalayıp katlayın ve pişene kadar bekleyin."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "grams": 120
+                },
+                {
+                    "name": "spinach",
+                    "grams": 50
+                },
+                {
+                    "name": "feta cheese",
+                    "grams": 40
+                },
+                {
+                    "name": "butter",
+                    "grams": 10
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Sweet Potato Apple Mash",
+                "tr": "Tatlı Patatesli Elma Püresi"
+            },
+            "instructions": {
+                "en": "1. Boil sweet potato and apple pieces until soft.\n2. Mash together with cinnamon and honey until smooth.\n3. Serve warm as a healthy sweet snack.",
+                "tr": "1. Tatlı patates ve elma parçalarını yumuşayana kadar haşlayın.\n2. Tarçın ve bal ile pürüzsüz olana kadar ezin.\n3. Sağlıklı tatlı bir atıştırmalık olarak ılık servis yapın."
+            },
+            "prep_time_minutes": 25,
+            "categories": ["snack"],
+            "ingredients": [
+                {
+                    "name": "sweet potato",
+                    "grams": 200
+                },
+                {
+                    "name": "apple",
+                    "grams": 100
+                },
+                {
+                    "name": "cinnamon",
+                    "grams": 2
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Chia Seed Berry Pudding",
+                "tr": "Meyveli Chia Puding"
+            },
+            "instructions": {
+                "en": "1. Mix chia seeds, milk, and honey in a jar.\n2. Refrigerate for 4 hours until thick.\n3. Top with sliced strawberries before serving.",
+                "tr": "1. Chia tohumu, süt ve balı kavanozda karıştırın.\n2. Buzdolabında koyulaşana kadar 4 saat bekletin.\n3. Servis etmeden önce çilek dilimleriyle süsleyin."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["snack", "breakfast"],
+            "ingredients": [
+                {
+                    "name": "chia seeds",
+                    "grams": 40
+                },
+                {
+                    "name": "milk",
+                    "grams": 200
+                },
+                {
+                    "name": "strawberry",
+                    "grams": 60
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Classic Oatmeal Bowl",
+                "tr": "Klasik Yulaf Kasesi"
+            },
+            "instructions": {
+                "en": "1. Cook oats in milk over medium heat for 5 minutes.\n2. Pour into a bowl and top with banana slices and honey.",
+                "tr": "1. Yulafı sütle orta ateşte 5 dakika pişirin.\n2. Kaseye döküp muz dilimleri ve bal ile süsleyin."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["breakfast"],
+            "ingredients": [
+                {
+                    "name": "rolled oats",
+                    "grams": 50
+                },
+                {
+                    "name": "milk",
+                    "grams": 200
+                },
+                {
+                    "name": "banana",
+                    "grams": 80
+                },
+                {
+                    "name": "honey",
+                    "grams": 15
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Boiled Chickpea Snack Bowl",
+                "tr": "Nohut Salatası Kasesi"
+            },
+            "instructions": {
+                "en": "1. Mix boiled chickpeas with olive oil, lemon juice, salt, and cumin.\n2. Toss well and serve as a protein-rich snack.",
+                "tr": "1. Haşlanmış nohutları zeytinyağı, limon suyu, tuz ve kimyon ile karıştırın.\n2. İyice harmanlayıp protein açısından zengin bir atıştırmalık olarak servis edin."
+            },
+            "prep_time_minutes": 10,
+            "categories": ["lunch", "snack"],
+            "ingredients": [
+                {
+                    "name": "chickpeas",
+                    "grams": 200
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 15
+                },
+                {
+                    "name": "lemon juice",
+                    "grams": 15
+                },
+                {
+                    "name": "salt",
+                    "grams": 2
+                },
+                {
+                    "name": "cumin",
+                    "grams": 2
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Cucumber Feta Snack",
+                "tr": "Peynirli Salatalık Dilimleri"
+            },
+            "instructions": {
+                "en": "1. Slice cucumbers into thick rounds.\n2. Top each round with a piece of feta cheese, a drizzle of olive oil, and fresh mint.",
+                "tr": "1. Salatalıkları kalın yuvarlaklar halinde dilimleyin.\n2. Her dilimin üzerine bir parça beyaz peynir, zeytinyağı ve taze nane koyun."
+            },
+            "prep_time_minutes": 5,
+            "categories": ["snack"],
+            "ingredients": [
+                {
+                    "name": "cucumber",
+                    "grams": 200
+                },
+                {
+                    "name": "feta cheese",
+                    "grams": 60
+                },
+                {
+                    "name": "olive oil",
+                    "grams": 10
+                },
+                {
+                    "name": "mint",
+                    "grams": 5
+                }
+            ]
+        },
+        {
+            "name": {
+                "en": "Banana Peanut Toast",
+                "tr": "Fıstık Ezmeli Muzlu Tost"
+            },
+            "instructions": {
+                "en": "1. Toast whole wheat bread slices.\n2. Spread peanut butter evenly, top with banana slices, and drizzle honey.",
+                "tr": "1. Tam buğday ekmeklerini kızartın.\n2. Üzerine eşit şekilde fıstık ezmesi sürün, muz dilimleri dizip bal gezdirin."
+            },
+            "prep_time_minutes": 5,
+            "categories": ["breakfast", "snack"],
+            "ingredients": [
+                {
+                    "name": "whole wheat bread",
+                    "grams": 60
+                },
+                {
+                    "name": "peanut butter",
+                    "grams": 30
+                },
+                {
+                    "name": "banana",
+                    "grams": 80
+                },
+                {
+                    "name": "honey",
+                    "grams": 10
+                }
+            ]
+        }
+    ]
+}

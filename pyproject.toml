@@ -1,0 +1,64 @@
+[project]
+name = "recipe-finder"
+version = "1.0.0"
+description = "A CLI tool to find available recipes against personalized nutritional and macro targets."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Ertan Tunç Türk", email = "turke@mef.edu.tr" }]
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "httpx2>=2.16.0",
+    "platformdirs>=4.13.5",
+    "prompt-toolkit>=3.0.53",
+    "pydantic>=2.14.1",
+    "rich>=15.0.0",
+    "typer>=0.27.3",
+]
+
+[project.scripts]
+recipe-finder = "recipe_finder.cli:app"
+
+[project.optional-dependencies]
+server = [
+    "fastapi>=0.162.0",
+    "pydantic-settings>=2.16.1",
+    "pyodbc>=5.3.0",
+    "sqlalchemy>=2.1.6",
+    "uvicorn>=0.54.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = ["recipe_finder", "recipe_api"]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.7.0",
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.1",
+    "pytest-cov>=7.0.0",
+    "respx>=0.23.1",
+    "ruff>=0.14.0",
+    "ty>=0.0.92",
+    "uv>=0.13.5",
+]
+
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+testpaths = ["tests"]
+pythonpath = ["src"]
+asyncio_mode = "auto"
+markers = ["integration: needs a real SQL Server"]

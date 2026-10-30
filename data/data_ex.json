@@ -1,0 +1,31 @@
+{
+    "ingredients": [
+        {
+            "name": { "en": "chicken breast", "tr": "tavuk göğsü" },
+            "per_100g": {
+                "calorie": 120,
+                "protein": 22.5,
+                "fat": 2.6,
+                "carbohydrate": 0,
+                "sugar": 0,
+                "fiber": 0,
+                "sodium": 45
+            }
+        }
+    ],
+    "recipes": [
+        {
+            "name": {
+                "en": "Grilled Chicken with Rice",
+                "tr": "Pirinçli Izgara Tavuk"
+            },
+            "instructions": { "en": "1. ...\n2. ...", "tr": "1. ...\n2. ..." },
+            "prep_time_minutes": 35,
+            "categories": ["dinner", "lunch"],
+            "ingredients": [
+                { "name": "chicken breast", "grams": 250 },
+                { "name": "white rice", "grams": 150 }
+            ]
+        }
+    ]
+}
